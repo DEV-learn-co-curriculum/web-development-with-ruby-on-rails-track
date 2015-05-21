@@ -1,0 +1,1850 @@
+---
+track:
+    title: Web Development with Ruby on Rails
+    uuid: f1985b4a-8474-4d50-a34d-0ae4662bf866
+    topics:
+    -   title: Getting Started
+        uuid: e5810fec-6e26-40e5-978a-fbb264fcca7a
+        units:
+        -   title: Command Line and BASH
+            uuid: 284e9150-4238-4f8d-a014-bc49ad98d0e7
+            lessons:
+            -   title: Intro to the Shell
+                uuid: becddd6b-abc9-4301-8496-b2060b13136d
+                contents:
+                -   title: Intro To The Shell
+                    source: https://github.com/learn-co-curriculum/intro-to-the-shell
+                    uuid: db440135-a680-4c49-9c42-1fbfbaaedb52
+            -   title: Opening a Terminal
+                uuid: d9bea7a2-461c-4ebf-8943-1262fbb53401
+                contents:
+                -   title: First Terminal
+                    source: https://github.com/learn-co-curriculum/first-terminal
+                    uuid: 4873ef3b-1d74-408a-b5f2-c66166991dc2
+            -   title: Bash Tutorial
+                uuid: 7120c9f8-4454-4c1a-923b-e078b04ad846
+                contents:
+                -   title: Bash Tutorial
+                    source: https://github.com/learn-co-curriculum/bash-tutorial
+                    uuid: ba2f3daa-24d7-4d84-b564-75c04c2359f6
+            -   title: CLI Basics
+                uuid: 236ff793-2818-4960-9af5-e62e3816d6d9
+                contents:
+                -   title: Cli Basics
+                    source: https://github.com/learn-co-curriculum/cli-basics
+                    uuid: 71428b18-7af8-4c30-9aec-0c348afa2d6e
+        -   title: Verifying Your Environment
+            uuid: d9032cfb-6e59-47c2-890d-1dd55b283242
+            lessons:
+            -   title: Environment Setup Summary
+                uuid: 45e94204-47cd-4634-87eb-2231e99b8e41
+                contents:
+                -   title: Ruby Environment Setup Summary
+                    source: https://github.com/learn-co-curriculum/ruby-environment-setup-summary
+                    uuid: c42e19f0-6a70-449b-ab25-51153f88ab0d
+        -   title: Git and Github
+            uuid: a3d393a3-a847-4283-a8cc-3005f6d109e9
+            lessons:
+            -   title: Version Control 101
+                uuid: 512939cf-a719-42fb-8caf-e2f1e488b8c6
+                contents:
+                -   title: Git Version Control 101
+                    source: https://github.com/learn-co-curriculum/git-version-control-101
+                    uuid: 18f9fc29-5fbe-46fd-ad5c-befd1e9291f4
+            -   title: Enough Git for Learn
+                uuid: 4a53238f-9810-4027-b4d0-e262bc140729
+                contents:
+                -   title: Enough Git For Learn Co
+                    source: https://github.com/learn-co-curriculum/enough-git-for-learn-co
+                    uuid: b8458df5-9aeb-4ea9-ac43-ee125f02db4f
+            -   title: 'Quiz: Git Basics'
+                uuid: 4776ebee-5278-4c98-a7fb-d6bbb5cc0c33
+                contents:
+                -   title: Git Github Learn Quiz
+                    source: https://github.com/learn-co-curriculum/git-github-learn-quiz
+                    uuid: 55a54fb5-b08d-41c9-9155-a33359bbf2a0
+            -   title: First Lab
+                uuid: 30bca908-9b56-4a91-a1b6-00603ddbae14
+                contents:
+                -   title: First Lab
+                    source: https://github.com/learn-co-curriculum/first-lab
+                    uuid: c1f80047-2407-4ff3-8137-a07934d1d002
+    -   title: Ruby
+        uuid: 895d0c67-9796-4e1a-8099-cfe06009afd3
+        units:
+        -   title: Ruby Introduction
+            uuid: c23fee6e-c125-4fdc-a571-ac10ee484e51
+            lessons:
+            -   title: What is a Program?
+                uuid: 64b158af-1faf-47e2-9e3e-c0f238ccf892
+                contents:
+                -   title: Ruby Lecture Intro What Is A Program
+                    source: https://github.com/learn-co-curriculum/ruby-lecture-intro-what-is-a-program
+                    uuid: dc7b6d58-b5cc-46fe-bcfc-0ea93a07c654
+            -   title: Hello, World!
+                uuid: 37695673-c324-4c27-8f09-eb2fc9d8242b
+                contents:
+                -   title: Hello World Ruby
+                    source: https://github.com/learn-co-curriculum/hello-world-ruby
+                    uuid: d36e42ad-ae69-49ae-8927-422d0134522d
+            -   title: Reading Error Messages
+                uuid: a695f421-5a38-4974-9cdd-28d0897c03c8
+                contents:
+                -   title: Ruby Lecture Reading Error Messages
+                    source: https://github.com/learn-co-curriculum/ruby-lecture-reading-error-messages
+                    uuid: 77e996a0-8791-4f4f-8f89-37104eb0b733
+            -   title: Fixing Our Broken Program
+                uuid: 64ffa785-980c-44e1-871d-47f9d015713f
+                contents:
+                -   title: Ruby Lecture Fixing Our Broken Program
+                    source: https://github.com/learn-co-curriculum/ruby-lecture-fixing-our-broken-program
+                    uuid: 123c8ac5-a39d-47fc-b4da-44cc99d3f148
+            -   title: Interactive Ruby Shell (IRB or irb)
+                uuid: d99ec0ca-3dd3-4f3a-b0a9-40366b2acaae
+                contents:
+                -   title: Irb Readme
+                    source: https://github.com/learn-co-curriculum/irb-readme
+                    uuid: 3122bd60-7115-4b94-ba57-ac9d460fec51
+            -   title: Debugging Errors in your Ruby Code
+                uuid: 0c57e2aa-f8fd-4bc8-8e81-fe133c0fb2ff
+                contents:
+                -   title: Debugging Errors Readme
+                    source: https://github.com/learn-co-curriculum/debugging-errors-readme
+                    uuid: 0284cc30-c0ad-4864-bb08-5ae091546b9f
+            -   title: Working with Syntax Errors
+                uuid: 25d6cc67-a1ed-4735-b3d3-22f400afd4f3
+                contents:
+                -   title: Syntax Error Ruby
+                    source: https://github.com/learn-co-curriculum/syntax-error-ruby
+                    uuid: d63884f3-7444-4425-b107-39d4a465fead
+            -   title: Intro to Tests, RSpec, and Learn
+                uuid: f1d148d9-5a48-4a8f-bbaa-a085930a7133
+                contents:
+                -   title: Intro To Tdd Rspec And Learn
+                    source: https://github.com/learn-co-curriculum/intro-to-tdd-rspec-and-learn
+                    uuid: 4b894c3f-31a2-400f-a99b-78c7087b51a8
+            -   title: Ruby Basics
+                uuid: 4e1eaf25-ba82-42d6-aa1d-59296b9f2a80
+                contents:
+                -   title: Todo Ruby Basics
+                    source: https://github.com/learn-co-curriculum/todo-ruby-basics
+                    uuid: e989dd7b-2664-441a-8356-481fc5fddf28
+            -   title: Ruby Basics Lecture Review
+                uuid: 88eef003-d84e-4037-ad02-3a455ec910e4
+                contents:
+                -   title: Ruby Lecture Review
+                    source: https://github.com/learn-co-curriculum/ruby_lecture_review
+                    uuid: e3126d9b-c4be-44ad-9d04-4349277cd025
+        -   title: Adding New Words to Your Program
+            uuid: 0721bd77-58c0-4e0f-a755-a31291d3954c
+            lessons:
+            -   title: About Variable Assignment
+                uuid: 0a0bce8a-4b19-466c-9c58-b6a654e5846c
+                contents:
+                -   title: Variable Readme
+                    source: https://github.com/learn-co-curriculum/variable-readme
+                    uuid: 3d2cd3d1-777c-4920-93c7-038045741252
+            -   title: Variable Assignment
+                uuid: cb5e49b7-6690-4859-9a81-47633fe2af0b
+                contents:
+                -   title: Ruby Variable Assignment
+                    source: https://github.com/learn-co-curriculum/ruby-variable-assignment
+                    uuid: 6ef7b915-ce4a-4819-bddb-39cef48a02a7
+            -   title: Ruby Variables Types
+                uuid: ce06ca9c-4710-41ee-b7f7-6e8d2649aa62
+                contents:
+                -   title: Ruby Variable Types Readme
+                    source: https://github.com/learn-co-curriculum/ruby-variable-types-readme
+                    uuid: 5d0fa295-1ba5-4e89-99f8-1e20c2051109
+            -   title: Puts and Return Values
+                uuid: 16ad7c53-0f91-46ac-9ae7-92d1764a31f2
+                contents:
+                -   title: Puts Print And Return Readme
+                    source: https://github.com/learn-co-curriculum/puts-print-and-return-readme
+                    uuid: 16a12ae9-5a70-4e4d-b2bd-807fa70e013b
+            -   title: Puts Hello World
+                uuid: 6ee3108f-c132-4267-ace6-9028890e0870
+                contents:
+                -   title: Ruby Hello World
+                    source: https://github.com/learn-co-curriculum/ruby-hello-world
+                    uuid: 110acafc-0cb0-4a8b-a9c2-050c68415abd
+            -   title: Methods, Return Value, Arguments
+                uuid: ed2e498b-cc7c-4e0a-a990-020276e3e589
+                contents:
+                -   title: Ruby Methods Readme
+                    source: https://github.com/learn-co-curriculum/ruby-methods-readme
+                    uuid: 381f321e-d877-41ab-8d0d-b279ddf6ef70
+            -   title: Parrot
+                uuid: 416fb083-588f-4507-a95d-ef1693e3b2c2
+                contents:
+                -   title: Parrot Ruby
+                    source: https://github.com/learn-co-curriculum/parrot-ruby
+                    uuid: 57da7957-0eeb-48a8-b8e2-149a22cc96f6
+            -   title: Introductory Default Arguments 1
+                uuid: 2036f8a4-6d7c-4b1a-9be3-35d322ba5f60
+                contents:
+                -   title: Say Hello Ruby
+                    source: https://github.com/learn-co-curriculum/say-hello-ruby
+                    uuid: 6bebb502-4745-4a59-8c56-267cffd7fd92
+            -   title: Introductory Default Arguments 2
+                uuid: 1662a17f-f90c-492d-bec6-9c73a808dfd6
+                contents:
+                -   title: Meal Choice
+                    source: https://github.com/learn-co-curriculum/meal-choice
+                    uuid: 6f10335d-1f14-4a88-a9af-3985ed180ca3
+            -   title: Dice Roll
+                uuid: f938cb2b-231c-48d9-921c-91895a4a65a6
+                contents:
+                -   title: Dice Roll Ruby
+                    source: https://github.com/learn-co-curriculum/dice-roll-ruby
+                    uuid: 0647769c-77d9-415c-9047-f6c9d5410ae6
+        -   title: Math & Data Types
+            uuid: 96d09cda-b301-47de-a96f-28157291c16f
+            lessons:
+            -   title: Different Data Types in Ruby
+                uuid: 0b54063b-8287-4e75-ae60-6f1f3ad988e5
+                contents:
+                -   title: Data Types Readme
+                    source: https://github.com/learn-co-curriculum/data-types-readme
+                    uuid: 4f6658a2-1b7f-4144-b7ad-e965bb926195
+            -   title: About Ruby Booleans
+                uuid: 6cb5d87f-2668-4129-bfe7-d3943487b474
+                contents:
+                -   title: Booleans Ruby Readme
+                    source: https://github.com/learn-co-curriculum/booleans-ruby-readme
+                    uuid: de29644f-6799-459e-aeba-fea082cf3b63
+            -   title: Truthiness in Ruby
+                uuid: 53c1febd-4332-4194-867e-f12b6290f642
+                contents:
+                -   title: Truthiness In Ruby Readme
+                    source: https://github.com/learn-co-curriculum/truthiness-in-ruby-readme
+                    uuid: 545e4b1f-879e-41c2-85ef-a4d08d1855b9
+            -   title: Testing Truth
+                uuid: 41982e1b-aba1-41b4-8f5b-032c85d29c88
+                contents:
+                -   title: Testing Truth
+                    source: https://github.com/learn-co-curriculum/testing-truth
+                    uuid: ccbaa593-2af2-402b-b140-9965cc35a6cd
+            -   title: Simple Math
+                uuid: 5b6c8bbf-4b8a-470d-b07d-5da943aa5dd2
+                contents:
+                -   title: Simple Math
+                    source: https://github.com/learn-co-curriculum/simple-math
+                    uuid: 5bc59d44-03a3-418d-b284-3a3f8647622e
+        -   title: Conditionals
+            uuid: 14e10a39-fca0-4785-aaad-6191f390be77
+            lessons:
+            -   title: About Ruby Conditionals
+                uuid: dc66a1b2-7e36-4d3e-abc1-09b35e45f850
+                contents:
+                -   title: Conditional Readme
+                    source: https://github.com/learn-co-curriculum/conditional-readme
+                    uuid: 14aebf91-2c4a-4a70-9059-4e46040da4d2
+            -   title: Speaking Grandma
+                uuid: a9f53ac6-80ab-48a7-81d8-193fc9745927
+                contents:
+                -   title: Speaking Grandma
+                    source: https://github.com/learn-co-curriculum/speaking-grandma
+                    uuid: 49421e68-aa2a-4596-8dfe-35e5d6c5fabf
+            -   title: Fizzbuzz
+                uuid: d23f09d2-431c-4f71-877a-a9b656bd0633
+                contents:
+                -   title: Rspec Fizzbuzz
+                    source: https://github.com/learn-co-curriculum/rspec-fizzbuzz
+                    uuid: ab7dc21b-f37a-4829-8a7a-23488fc27076
+            -   title: About Ruby Case Statements
+                uuid: 16638f82-b2b8-4853-a2f6-70ba82dc5f00
+                contents:
+                -   title: Case Statements Readme
+                    source: https://github.com/learn-co-curriculum/case-statements-readme
+                    uuid: 4017f124-5a89-4b8d-9ba5-feaab2583ca3
+            -   title: More Vowels
+                uuid: 173a476e-ed03-40a2-bdc5-e9bb7719b743
+                contents:
+                -   title: More Vowels
+                    source: https://github.com/learn-co-curriculum/more-vowels
+                    uuid: 7bbcdf36-4d8a-4fbb-bd95-713c6e2e52b5
+        -   title: Looping
+            uuid: 12ba3da1-0926-4369-b9fe-ca34a1d40cfb
+            lessons:
+            -   title: Looping and Gets
+                uuid: 6f62420a-f75a-47fd-a259-8143c04e969f
+                contents:
+                -   title: Looping Readme
+                    source: https://github.com/learn-co-curriculum/looping-readme
+                    uuid: cf772937-5b5d-49f1-b9fd-2137f9023299
+            -   title: Simple Loops
+                uuid: 67e0d67c-6c72-43f5-b21e-94b588002f93
+                contents:
+                -   title: Simple Loops
+                    source: https://github.com/learn-co-curriculum/simple-loops
+                    uuid: 44ab6268-d07f-4f59-85d5-cd1a9ee34f71
+            -   title: Countdown to Midnight
+                uuid: b61f89f7-dcc4-483c-9c95-c3d4c24f34da
+                contents:
+                -   title: Countdown To Midnight
+                    source: https://github.com/learn-co-curriculum/countdown-to-midnight
+                    uuid: c6ea6253-231e-4f87-ae61-19bc5c4a2ee4
+            -   title: Operations
+                uuid: f136b977-1643-4671-aeb9-902c6a632be6
+                contents:
+                -   title: Operations
+                    source: https://github.com/learn-co-curriculum/operations
+                    uuid: c2c82c43-dfb4-4230-b766-78d7a4044e9e
+            -   title: Iteration Lecture Review
+                uuid: 268dc61d-5073-4f2f-9448-d59f17fc5527
+                contents:
+                -   title: Iteration Lecture Review
+                    source: https://github.com/learn-co-curriculum/iteration_lecture_review
+                    uuid: e188eaec-877c-42aa-8235-686dd394aea4
+            -   title: Blackjack CLI
+                uuid: 388509a6-f048-471c-b2d5-d68b3056bdeb
+                contents:
+                -   title: Simple Blackjack Cli
+                    source: https://github.com/learn-co-curriculum/simple-blackjack-cli
+                    uuid: 2bee9c86-62b9-4292-a76e-003981363671
+        -   title: An Intro to Arrays & Iteration
+            uuid: 5b481748-3dca-4234-8da6-aa7ea44f8490
+            lessons:
+            -   title: Intro to Arrays
+                uuid: 56aac9b1-ece9-4041-97cf-b970b2a90af9
+                contents:
+                -   title: Array Readme
+                    source: https://github.com/learn-co-curriculum/array-readme
+                    uuid: cfba9d07-8f19-416f-9cca-7ef5a9057ca3
+            -   title: Basic Arrays
+                uuid: 33dc889c-6c9c-4f2e-8ede-e0a1b6225f51
+                contents:
+                -   title: Ruby Intro To Arrays Lab
+                    source: https://github.com/learn-co-curriculum/ruby-intro-to-arrays-lab
+                    uuid: e288c8a3-2d15-4d5a-8a43-f32bf609df5c
+            -   title: About Iteration and Abstraction
+                uuid: 16b70542-c593-4c8e-a8e5-fe3cf54bc932
+                contents:
+                -   title: Iterators And Abstraction Ruby
+                    source: https://github.com/learn-co-curriculum/iterators-and-abstraction-ruby
+                    uuid: 1bcca08f-0268-4132-8be9-93b58bd5c478
+            -   title: Iteration Review
+                uuid: 80136c6e-3094-4cec-9a9f-7cac918d55e7
+                contents:
+                -   title: Iteration Lecture Review
+                    source: https://github.com/learn-co-curriculum/iteration_lecture_review
+                    uuid: afdaf20c-ccc2-48d7-8d49-7a8754c8202a
+            -   title: Square Array
+                uuid: 9ded458a-5fc7-4beb-80bb-0fa6f944bfce
+                contents:
+                -   title: Square Array
+                    source: https://github.com/learn-co-curriculum/square_array
+                    uuid: b84e37cb-2b45-4e67-a0a6-439134af74c3
+            -   title: Implementing Prime
+                uuid: ef0e7fe0-1f47-4a4f-828b-f3b56e265b7c
+                contents:
+                -   title: Prime Ruby
+                    source: https://github.com/learn-co-curriculum/prime-ruby
+                    uuid: 2fcd9848-b241-448f-9bd3-5698c2bdcb32
+            -   title: Intro to Manipulating Arrays Lab
+                uuid: 4fe3e79f-bf4a-4327-92bd-d80b3374aca0
+                contents:
+                -   title: Intro To Simple Array Manipulations
+                    source: https://github.com/learn-co-curriculum/intro-to-simple-array-manipulations
+                    uuid: b7f36f23-238d-42b5-8b83-a0daa6475133
+            -   title: Badges and Schedules
+                uuid: e73a9fa9-e5e9-4575-8ba5-f3fe83a58852
+                contents:
+                -   title: Badges And Schedules
+                    source: https://github.com/learn-co-curriculum/badges-and-schedules
+                    uuid: 5075227a-96b0-4c85-b2ae-ee288ead55a7
+            -   title: Deli Counter
+                uuid: 65fd70dd-9072-4776-8c9e-cd948fea5881
+                contents:
+                -   title: Deli Counter
+                    source: https://github.com/learn-co-curriculum/deli-counter
+                    uuid: a19fa531-0ff3-4de9-8532-d373cb224f11
+            -   title: Oxford Comma
+                uuid: 34383464-223e-43fb-9120-65acddfe64ab
+                contents:
+                -   title: Oxford Comma
+                    source: https://github.com/learn-co-curriculum/oxford-comma
+                    uuid: 77ab888a-18d1-4cb8-ac69-dc5641c01149
+        -   title: A Deeper Dive into Enumerables
+            uuid: 1c2260c5-34b9-46f7-8bac-156ed7d3d8ee
+            lessons:
+            -   title: Enumerators README
+                uuid: 9712b071-1d24-430a-9750-381fc8a8f65d
+                contents:
+                -   title: Enumerators Readme
+                    source: https://github.com/learn-co-curriculum/enumerators-readme
+                    uuid: 1908e834-8f3e-443f-a051-4fbaaf075883
+            -   title: Reverse Each Word
+                uuid: 907269df-4d46-4c42-a5d6-9fa16c73f118
+                contents:
+                -   title: Reverse Each Word
+                    source: https://github.com/learn-co-curriculum/reverse-each-word
+                    uuid: 5c8a06d1-965e-42b3-b185-d72124fb7041
+            -   title: Cartoon Collections
+                uuid: f08605f4-db14-42d6-9fe5-37849f78a6df
+                contents:
+                -   title: Cartoon Collections
+                    source: https://github.com/learn-co-curriculum/cartoon-collections
+                    uuid: bcd4f5db-ffe7-4fd4-b430-4103519db2a1
+            -   title: Bonus - Blocks vs. Procs vs. Lambdas
+                uuid: 4e1882cc-ce59-40dc-be5d-0e5b6c9f9316
+                contents:
+                -   title: Ruby Closures Readme
+                    source: https://github.com/learn-co-curriculum/ruby-closures-readme
+                    uuid: 34931406-83c8-4a25-951f-79b85736bcf6
+            -   title: My Each
+                uuid: 4b038a30-8d73-4112-b86b-aa320aa2eb89
+                contents:
+                -   title: My Each
+                    source: https://github.com/learn-co-curriculum/my-each
+                    uuid: 1e246a67-f938-4e78-ae80-93fa1b9123d5
+            -   title: My Collect
+                uuid: 39b3becc-7634-4e72-a60f-74e3c25563b8
+                contents:
+                -   title: My Collect
+                    source: https://github.com/learn-co-curriculum/my-collect
+                    uuid: d0d70625-1328-4857-99d8-8f47eca38828
+            -   title: My Select
+                uuid: 7bb4cec4-fece-4834-abb4-d97733db9f41
+                contents:
+                -   title: My Select
+                    source: https://github.com/learn-co-curriculum/my-select
+                    uuid: 6099ddcc-683a-4662-9932-ecc87034df8b
+            -   title: Pass By Reference
+                uuid: 40b61b68-51ff-4f36-bcfd-8c328873f0f0
+                contents:
+                -   title: Pass By Reference
+                    source: https://github.com/learn-co-curriculum/pass-by-reference
+                    uuid: 3213c1b3-4db1-4d3d-98c3-652d5a557fe7
+            -   title: Bonus - Collections Practice 1
+                uuid: 22891815-cd88-4931-ad8a-82b3208524b7
+                contents:
+                -   title: Collections Practice
+                    source: https://github.com/learn-co-curriculum/collections_practice
+                    uuid: c4a79f53-ef07-4be0-a2a3-6cf4e88467a8
+            -   title: Bonus - Collections Practice 2
+                uuid: 41bbf9ce-a566-4103-919f-09558d8b30c5
+                contents:
+                -   title: Collections Practice Vol 2
+                    source: https://github.com/learn-co-curriculum/collections_practice_vol_2
+                    uuid: 619a40ea-1e5c-411b-9edb-b54dd076a61f
+        -   title: An Intro to Hashes
+            uuid: 4e003f43-225c-4158-97e4-a04aa60d5a84
+            lessons:
+            -   title: About Hashes
+                uuid: 75401c06-d40b-49f0-9ad7-073dec45bee8
+                contents:
+                -   title: Hash Overview Readme
+                    source: https://github.com/learn-co-curriculum/hash-overview-readme
+                    uuid: 6dc731b5-0273-4a48-a366-3d7d1e9851eb
+            -   title: Intro to Hashes Lab
+                uuid: 9b50aa99-dc45-4cac-b2e1-b4eb60806761
+                contents:
+                -   title: Ruby Intro To Hashes Lab
+                    source: https://github.com/learn-co-curriculum/ruby-intro-to-hashes-lab
+                    uuid: 217139fc-9b68-470e-9eaf-2fe9e2cf65aa
+            -   title: Symbols
+                uuid: edde1fb1-b69d-42dc-9ad3-af168efb05c4
+                contents:
+                -   title: Ruby Symbols
+                    source: https://github.com/learn-co-curriculum/ruby-symbols
+                    uuid: 0f7c9d19-4389-41f9-b6a7-2bc78541de33
+            -   title: Key for Min Value
+                uuid: 2ea6c330-3ec0-47f8-8340-ce9705e6ff7e
+                contents:
+                -   title: Key For Min Value
+                    source: https://github.com/learn-co-curriculum/key-for-min-value
+                    uuid: 72fa3051-3118-4f08-875c-f68fd409a7a8
+            -   title: Simple Nesting
+                uuid: 2b95903d-2b1d-4596-adff-fd04586adc87
+                contents:
+                -   title: Simple Nesting
+                    source: https://github.com/learn-co-curriculum/simple-nesting
+                    uuid: 089f687b-c175-4439-bfe5-40ff4554f3d1
+        -   title: More on Hashes
+            uuid: f03ef710-bd7d-4cdd-a574-900e2d25e3dc
+            lessons:
+            -   title: Iterating and Manipulating 1
+                uuid: e164582f-fbc0-40c6-ba1c-8a211e9c4f13
+                contents:
+                -   title: Apples And Holidays
+                    source: https://github.com/learn-co-curriculum/apples-and-holidays
+                    uuid: 6f48d069-fb07-42c8-a5e4-12409fe35e3c
+            -   title: Hashketball
+                uuid: b540bd69-96cd-48c6-a703-03a174486d1d
+                contents:
+                -   title: Hashketball
+                    source: https://github.com/learn-co-curriculum/hashketball
+                    uuid: 6ab4ccdb-79e9-4142-b087-c7c0e37f01ea
+            -   title: Bonus - Programming Languages
+                uuid: 7f7986ee-aca1-4f15-94af-e61a7bd91e92
+                contents:
+                -   title: Programming Languages
+                    source: https://github.com/learn-co-curriculum/programming_languages
+                    uuid: c5e055a9-4050-4941-aff7-b2a8239eb2e5
+            -   title: Bachelor Nested Iteration
+                uuid: 028acb5d-afbc-4e8f-93f5-f814fc80f514
+                contents:
+                -   title: The Bachelor Todo
+                    source: https://github.com/learn-co-curriculum/the-bachelor-todo
+                    uuid: 28e66a55-b247-4294-bf89-9f30fdf58f21
+            -   title: Keys Of Hash
+                uuid: cd9c5681-88cd-499d-bfe7-c694ee5d24d0
+                contents:
+                -   title: Keys Of Hash
+                    source: https://github.com/learn-co-curriculum/keys-of-hash
+                    uuid: c409d1e3-8bed-4751-ba9c-0ff1fc9f76e0
+        -   title: Your First Application
+            uuid: bdcd2a7d-219a-46ab-9bb4-82fd8b76f8f7
+            lessons:
+            -   title: About String Manipulation
+                uuid: f49d9e38-4d69-426b-a3c4-9f97b0477a86
+                contents:
+                -   title: Interpolation Readme
+                    source: https://github.com/learn-co-curriculum/interpolation-readme
+                    uuid: d3f04c7f-7a49-4b2e-8e61-06fa4d10a700
+                -   title: String Concatenation Readme
+                    source: https://github.com/learn-co-curriculum/string-concatenation-readme
+                    uuid: 41fcbdee-0026-438a-ae0a-213686e3ac0c
+                -   title: Global Substitution Readme
+                    source: https://github.com/learn-co-curriculum/global-substitution-readme
+                    uuid: c54197b7-2a30-4ddc-a0ef-0a3211d9fb3a
+            -   title: Guessing CLI
+                uuid: f1d9ec46-b585-4caf-a4a4-865a70a78e80
+                contents:
+                -   title: Guessing Cli
+                    source: https://github.com/learn-co-curriculum/guessing-cli
+                    uuid: 3bb8ec53-b7af-4327-b895-e22f2fe66ce1
+            -   title: Jukebox CLI
+                uuid: 0bd5d220-31db-4d52-a71c-92e7f35f3d3a
+                contents:
+                -   title: Jukebox Cli
+                    source: https://github.com/learn-co-curriculum/jukebox-cli
+                    uuid: dc9fff74-b7bc-4b3c-9744-ac111cd55d6e
+        -   title: Regex
+            uuid: 8b78d002-d8ce-4d3f-b9f4-b6112ba174d2
+            lessons:
+            -   title: Practicing Regex
+                uuid: b09abb6f-7959-46c0-9cf9-685655cac399
+                contents:
+                -   title: Regex Rally
+                    source: https://github.com/learn-co-curriculum/regex_rally
+                    uuid: 2f8ae1e0-507d-4e29-a91f-b7e20a678412
+            -   title: Phone Number Formatter
+                uuid: 191a0a88-5c68-43be-a3bb-cd61ac07178e
+                contents:
+                -   title: Phone Number Formatter
+                    source: https://github.com/learn-co-curriculum/phone-number-formatter
+                    uuid: 1a85a57f-ade6-4caa-ac2a-2791388ed18f
+            -   title: Tweet Shortener
+                uuid: 043cf2c5-c320-44b5-a476-f4e437871fb1
+                contents:
+                -   title: Tweet Shortener
+                    source: https://github.com/learn-co-curriculum/tweet-shortener
+                    uuid: a409d7e2-b9cb-4c5a-9ae4-0a2c243d3ae5
+            -   title: The scan Method
+                uuid: 8c6746ab-9663-4a97-ae41-a68d5292f1ed
+                contents:
+                -   title: The Scan Method
+                    source: https://github.com/learn-co-curriculum/the_scan_method
+                    uuid: 4c6082aa-c254-4d51-b760-82380fcbf1ed
+            -   title: The gsub Method
+                uuid: abded6a4-279a-445a-8229-12469a109661
+                contents:
+                -   title: The Gsub Method
+                    source: https://github.com/learn-co-curriculum/the_gsub_method
+                    uuid: 70b0597f-454a-46be-9322-1fc8a1eddb38
+        -   title: Debugging
+            uuid: d5341d38-f3c0-4ae2-a9da-daedc8ee31c4
+            lessons:
+            -   title: Pry Video
+                uuid: cf2cc2cd-9d04-40ef-ac69-09a29cb33054
+                contents:
+                -   title: Pry Readme
+                    source: https://github.com/learn-co-curriculum/pry-readme
+                    uuid: c0ad053d-55b9-4a29-9db5-3943594590c8
+            -   title: Debugging Errors
+                uuid: d5a07925-f033-44e7-ab2a-0efcf3c271c6
+                contents:
+                -   title: Debugging Errors Readme
+                    source: https://github.com/learn-co-curriculum/debugging-errors-readme
+                    uuid: 383ce0f4-0404-481b-b87a-2d4b7eb5b373
+        -   title: Bringing it all Together I
+            uuid: bb6396d6-7f1a-4c7e-b0ef-0d7bf1df2765
+            lessons:
+            -   title: Todo - Count Elements
+                uuid: fe63b721-107c-4ca8-86c9-b1cfbc57724a
+                contents:
+                -   title: Count Elements
+                    source: https://github.com/learn-co-curriculum/count-elements
+                    uuid: 5248ca4e-f4f5-43da-902a-92adcc2a83dc
+            -   title: NYC Pigeon Organizer
+                uuid: d6ee71d1-ae30-41e4-92d4-481cd66e489c
+                contents:
+                -   title: Nyc Pigeon Organizer
+                    source: https://github.com/learn-co-curriculum/nyc-pigeon-organizer
+                    uuid: 5feb40e3-30fe-4dbc-979d-6ea23a6f961c
+            -   title: Green Grocer
+                uuid: 104aa058-bef0-4dbd-9e90-f48767d0978f
+                contents:
+                -   title: Green Grocer
+                    source: https://github.com/learn-co-curriculum/green_grocer
+                    uuid: 20aee1bc-3ebf-4649-a517-08b70105d844
+            -   title: Bonus - Emoticon Translator
+                uuid: e66d8b48-989b-4059-b168-28cbcc7a747c
+                contents:
+                -   title: Emoticon Translator
+                    source: https://github.com/learn-co-curriculum/emoticon-translator
+                    uuid: 6c5cdd97-8201-4a18-ae25-039836d76b12
+            -   title: Bonus - Alphabetize in Esperanto
+                uuid: 3c67f371-5ac5-4c76-8d10-36fd173f81b9
+                contents:
+                -   title: Alphabetize In Esperanto
+                    source: https://github.com/learn-co-curriculum/alphabetize-in-esperanto
+                    uuid: d716b728-1e50-474e-b394-d5f2d542546c
+            -   title: Ruby Assessment
+                uuid: 1caf6f4d-65e0-4a7f-9822-be8c52746ed3
+                contents:
+                -   title: Ruby Assessment
+                    source: https://github.com/learn-co-curriculum/ruby-assessment
+                    uuid: 055712bf-598f-42d8-8522-671cd55acbd5
+        -   title: Building Ruby Programs
+            uuid: 1ef43d97-941e-407b-8fd4-a94ae61f2261
+            lessons:
+            -   title: Structured Learning
+                uuid: 87456af2-c842-4e56-960e-36dbca77c067
+                contents:
+                -   title: Structured Learning
+                    source: https://github.com/learn-co-curriculum/structured-learning
+                    uuid: 1fa4f39f-2a9b-483b-89b2-65c022057e30
+            -   title: Using Bundler
+                uuid: b8e2f504-91e0-4d88-9dcc-f894a74d2791
+                contents:
+                -   title: Using Bundler
+                    source: https://github.com/learn-co-curriculum/using-bundler
+                    uuid: ae0519b7-35ec-43ee-a16b-f2078e639292
+        -   title: Beginning Object Orientation
+            uuid: ffb88485-1c0f-427b-9c93-ab5dbb4055ad
+            lessons:
+            -   title: About Variable Types
+                uuid: a90ba7cd-ef5d-41c3-bacd-d8e796cc1d8b
+                contents:
+                -   title: Ruby Variable Types Readme
+                    source: https://github.com/learn-co-curriculum/ruby-variable-types-readme
+                    uuid: 40fd67f1-1948-4109-ab2d-c40338945f16
+            -   title: About Object Attributes
+                uuid: 73ac13c1-edc3-495e-ba39-5aec435d3078
+                contents:
+                -   title: Object Attributes Tutorial
+                    source: https://github.com/learn-co-curriculum/object-attributes-tutorial
+                    uuid: 1885c334-33ec-46bf-af8e-edab72f8cd17
+            -   title: OO Barking Dog
+                uuid: ffc68fac-d580-457a-ba82-be8eb98fb57a
+                contents:
+                -   title: Oo Barking Dog
+                    source: https://github.com/learn-co-curriculum/oo-barking-dog
+                    uuid: 02eeef97-e9ba-4972-ae03-8a9a8b2341a3
+            -   title: Lecture - Instance Behavior
+                uuid: 4f5c3400-09e0-44d3-9282-2f0755f23ec4
+                contents: []
+            -   title: OO Counting Sentences
+                uuid: 37b72cd1-34a2-472e-a162-917af63084f2
+                contents:
+                -   title: Oo Counting Sentences
+                    source: https://github.com/learn-co-curriculum/oo-counting-sentences
+                    uuid: e070b292-c2ef-4bac-b938-9bc92152f09b
+            -   title: OO Basics
+                uuid: b2525791-58f5-4c8a-9124-55a2f5eea06a
+                contents:
+                -   title: Oo Basics
+                    source: https://github.com/learn-co-curriculum/oo-basics
+                    uuid: f4699f4c-9243-4fa9-8bcf-f4b57c5e0264
+            -   title: Lecture - Class Architecture
+                uuid: 93b2bf23-b6c8-45ef-93af-6cc89ee20a7a
+                contents: []
+            -   title: OO Email Parser
+                uuid: b134d5f0-b5f7-4e12-8800-e3bde07f5cfa
+                contents:
+                -   title: Oo Email Parser
+                    source: https://github.com/learn-co-curriculum/oo-email-parser
+                    uuid: 011eb600-7e1c-48bd-a217-bcc5e767e81e
+            -   title: OO Anagram Detector
+                uuid: 4ec7c09f-e8aa-49c6-83c8-a50fdbb07f34
+                contents:
+                -   title: Anagram Detector
+                    source: https://github.com/learn-co-curriculum/anagram-detector
+                    uuid: e0b72aab-076b-4119-8ed0-3b27c4cfa979
+            -   title: Twitter API Todo
+                uuid: 35122c6f-0015-4b21-ab8a-c98973a0907c
+                contents:
+                -   title: Twitter Api Todo
+                    source: https://github.com/learn-co-curriculum/twitter-api-todo
+                    uuid: 5cfad5f1-003a-4ce6-bced-413de44a94cf
+            -   title: Bringing it all Together - OO Animal Sorter
+                uuid: 40a29cec-d543-46ae-8c2d-ca631d0fd62c
+                contents:
+                -   title: Oo Animal Sorter
+                    source: https://github.com/learn-co-curriculum/oo-animal-sorter
+                    uuid: a07c93ad-928c-4add-a3f0-18a5af278fa6
+        -   title: An Intro to Metaprogramming
+            uuid: 1080af43-ecb5-4b52-8de8-c7ff454e1d4b
+            lessons:
+            -   title: Lecture - Mass Assignment
+                uuid: 977edf59-e2ad-49c1-9514-5bb7eefb53a4
+                contents: []
+            -   title: OO Mass Assignment
+                uuid: 60ad2dc0-5ce3-4a4c-906e-c2f4c220119f
+                contents:
+                -   title: Mass Assignment
+                    source: https://github.com/learn-co-curriculum/mass-assignment
+                    uuid: e280c214-fb48-457a-ae3f-9b9fb39f43f8
+        -   title: A Deeper Dive into Object Orientation
+            uuid: c7504203-891b-4cf7-b12a-7ba66a627e6e
+            lessons:
+            -   title: Lecture - Abstractions and Metaphors
+                uuid: 650e48f6-fd72-41ce-9937-414be2381c85
+                contents: []
+            -   title: Lecture - Interface Methods
+                uuid: 1a78bd71-adf4-4283-a183-0aa758967966
+                contents: []
+            -   title: OO School Domain
+                uuid: 636f2e60-1d56-4388-99e5-da006f7027e1
+                contents:
+                -   title: School Domain
+                    source: https://github.com/learn-co-curriculum/school-domain
+                    uuid: 4cfc00cd-f2de-4fb2-ba30-39f85a1f7bca
+            -   title: OO Data Normalization
+                uuid: b0f3ae09-2f4f-4959-a0f1-5c5059fc53c1
+                contents:
+                -   title: Oo Data Normalization
+                    source: https://github.com/learn-co-curriculum/oo-data-normalization
+                    uuid: 02d712e4-d9b5-43e6-bce5-df7a1613fe8d
+            -   title: OO Triangle Classification
+                uuid: 815f582b-f990-4b47-955f-2c2614377f69
+                contents:
+                -   title: Triangle Classification
+                    source: https://github.com/learn-co-curriculum/triangle-classification
+                    uuid: 50f2b01b-0b15-45bb-b719-bd77da549977
+            -   title: OO Cash Register
+                uuid: e286f88f-3201-4611-9bbe-7c48761fd11f
+                contents:
+                -   title: Oo Cash Register
+                    source: https://github.com/learn-co-curriculum/oo-cash-register
+                    uuid: b5869173-042c-4856-8650-24499a5e5450
+            -   title: About Public vs Private Methods
+                uuid: db8d09a9-a9e6-4b96-8633-5051566ce605
+                contents:
+                -   title: Ruby Public Private Methods Readme
+                    source: https://github.com/learn-co-curriculum/ruby-public-private-methods-readme
+                    uuid: 6d7f80ec-670d-46db-88fe-e225fd930745
+            -   title: Bonus - OO Fake Array
+                uuid: a03e6215-d7f0-4d4d-9bf9-246dfa40450c
+                contents:
+                -   title: Fakearray
+                    source: https://github.com/learn-co-curriculum/fakearray
+                    uuid: c1466fe2-5fe2-40b3-ae0f-f7c6f6d95cb1
+            -   title: Bonus - OO Fake Hash
+                uuid: fea3711f-353b-4926-814c-3761c8020c2b
+                contents:
+                -   title: Fakehash
+                    source: https://github.com/learn-co-curriculum/fakehash
+                    uuid: 9195c11d-9853-4741-aece-588e886c638d
+            -   title: Bonus - OO Roman Numerals
+                uuid: 676c34e5-3130-459c-b1e2-9a66774245e5
+                contents:
+                -   title: Roman Numerals
+                    source: https://github.com/learn-co-curriculum/roman-numerals
+                    uuid: 16eb0bad-78eb-424e-8411-a79481e17c37
+            -   title: Bonus - OO Secret Handshake
+                uuid: 2ec236e8-a761-4afc-957c-a249411cf21f
+                contents:
+                -   title: Secret Handshake
+                    source: https://github.com/learn-co-curriculum/secret-handshake
+                    uuid: 4a4bf773-78e0-476f-b2ea-6e72fa15e418
+            -   title: Bonus - Allergies
+                uuid: 6b3f2ce2-10c4-4a01-b164-73e4c8553e62
+                contents: []
+            -   title: OO Person
+                uuid: 0f96d697-eae5-4b04-b719-411e0dc6773e
+                contents:
+                -   title: Oo Person
+                    source: https://github.com/learn-co-curriculum/oo-person
+                    uuid: 1681f363-0f97-4211-95ca-c0baa35ebea5
+        -   title: Object Relations
+            uuid: 24911a8a-ebc0-4fb2-bf5a-1742287e3945
+            lessons:
+            -   title: Lecture - Object Relations
+                uuid: 9937e142-1c19-46c6-9406-a8186662bf76
+                contents: []
+            -   title: OO My Pets
+                uuid: 8a75d78c-7ea9-4da2-a5c6-b55684c1d24a
+                contents:
+                -   title: Oo My Pets
+                    source: https://github.com/learn-co-curriculum/oo-my-pets
+                    uuid: 5309028b-5524-4c59-ba9d-f306fb55e526
+            -   title: OO Kickstarter
+                uuid: e498842f-e54d-4194-b45d-9fb5c7688ff4
+                contents:
+                -   title: Oo Kickstarter
+                    source: https://github.com/learn-co-curriculum/oo-kickstarter
+                    uuid: ef7a505f-fa34-4ebb-b615-a7d7ca8cb0fc
+            -   title: OO Banking
+                uuid: 3be6f3d8-ec87-4d4c-8d08-88793c465d49
+                contents:
+                -   title: Oo Banking
+                    source: https://github.com/learn-co-curriculum/oo-banking
+                    uuid: 8ccc5bed-f2bb-493e-8c16-4d6ac4a9dc69
+            -   title: OO Playlister Ruby
+                uuid: a6c32f90-050a-4a22-a661-8533052ebf5c
+                contents:
+                -   title: Playlister Rb
+                    source: https://github.com/learn-co-curriculum/playlister-rb
+                    uuid: 7f393bae-3280-4be0-8f47-ca49644f9252
+        -   title: Modules, Mixins, Inheritance
+            uuid: 54a136ca-828a-42f4-b2cb-7f64f7580fe8
+            lessons:
+            -   title: Lecture - Inheritance
+                uuid: 3c4e25c0-dbbc-430a-b307-22bc056abfb5
+                contents: []
+            -   title: Artist & Song Modules
+                uuid: 671b0baa-20a1-4ec2-8422-96a1ab1398b4
+                contents:
+                -   title: Artist Song Modules
+                    source: https://github.com/learn-co-curriculum/artist-song-modules
+                    uuid: c5f8d4ab-0939-4f75-b66c-52d0df687546
+            -   title: Bonus - Adults Only
+                uuid: 2a562db5-aaeb-4fd4-8b99-b2ff2cb576ee
+                contents:
+                -   title: Adults Only
+                    source: https://github.com/learn-co-curriculum/adults_only
+                    uuid: ac4325bc-a7aa-42e6-bc5f-4cc16eaf2968
+        -   title: Scraping
+            uuid: 83c4b96f-725f-4435-8d4f-5a54713a94b4
+            lessons:
+            -   title: Lecture - CSS Selectors
+                uuid: a3ca7e8f-7d3a-41c1-95bc-00165cbfdfeb
+                contents: []
+            -   title: Lecture - Nokogiri gem
+                uuid: c5c8cb52-12b6-45e3-901c-e04cc9d45c0f
+                contents: []
+            -   title: Lecture - Getting and Organizing Data
+                uuid: 6323fa2d-281e-408e-b47c-0d7d4539c624
+                contents: []
+            -   title: Todo - Spotify API Scrape
+                uuid: 24d26fa3-461a-4c25-8b0b-4ebe691fddc3
+                contents:
+                -   title: Spotify Api Todo
+                    source: https://github.com/learn-co-curriculum/spotify-api-todo
+                    uuid: 8952d611-f1e3-4a77-ac9b-1895ce6f9912
+            -   title: Scraping Kickstarter
+                uuid: 19ba8f25-7c14-4d1f-a654-f453e8c3c409
+                contents:
+                -   title: Scraping Kickstarter
+                    source: https://github.com/learn-co-curriculum/scraping-kickstarter
+                    uuid: 73a96e31-8984-4c93-8497-63099e184c27
+            -   title: Project - Scrape Your Students Page
+                uuid: 0dfbaf92-a547-48eb-855c-545d4c4de1e8
+                contents:
+                -   title: Scraping The Students Page
+                    source: https://github.com/learn-co-curriculum/scraping-the-students-page
+                    uuid: 6f678f0b-d46c-4cfe-bfa5-a62dd1c58c58
+            -   title: Bonus - Shoutkey
+                uuid: 04e19500-5f0e-451d-89c5-6c73e5acfa84
+                contents:
+                -   title: Shoutkey
+                    source: https://github.com/learn-co-curriculum/shoutkey
+                    uuid: 22ddbfac-f869-4f6b-a323-6e2bd0a0437f
+        -   title: Best Practices in Object Oriented Design
+            uuid: 0057912f-9f65-434c-8043-73f6518f5d79
+            lessons:
+            -   title: OO - Refactoring Ruby
+                uuid: 863f5c53-e04e-435f-b7cf-f21cf1bfc952
+                contents:
+                -   title: Ruby Refactoring
+                    source: https://github.com/learn-co-curriculum/ruby-refactoring
+                    uuid: 19f0fdeb-d605-4032-ab9e-5c7d71e3589c
+            -   title: Bonus - About Structs
+                uuid: 2fec79d7-7ae0-42fe-a47c-e2b24e10adc6
+                contents:
+                -   title: Ruby Struct Class Readme
+                    source: https://github.com/learn-co-curriculum/ruby-struct-class-readme
+                    uuid: 825efeda-598c-4940-bd94-de36fe892648
+        -   title: Bringing it all Together II
+            uuid: d9a414a4-c57e-4af6-9107-9d94aeb78d8f
+            lessons:
+            -   title: OO Jukebox
+                uuid: 99f59cfa-245a-4e94-8949-409227eb81b2
+                contents:
+                -   title: Oo Jukebox
+                    source: https://github.com/learn-co-curriculum/oo-jukebox
+                    uuid: 02634640-4f9a-4801-9b28-a7b6a12d4f33
+            -   title: OO Playlister CLI
+                uuid: f4d7bf3d-43cd-42fa-aeca-34876db579e6
+                contents:
+                -   title: Playlister Cli
+                    source: https://github.com/learn-co-curriculum/playlister-cli
+                    uuid: 226b17b8-5135-4262-ac80-0841ac36c4c9
+            -   title: Code Coverage
+                uuid: e2c84074-9999-4ffc-8238-c7643d85813d
+                contents:
+                -   title: Code Coverage
+                    source: https://github.com/learn-co-curriculum/code-coverage
+                    uuid: 5e76b93e-2069-46c8-93f5-111afc639ae5
+            -   title: Ruby OO Assessment
+                uuid: 781a8abc-5cf0-435c-a814-a9ecad5b62aa
+                contents:
+                -   title: Ruby Oo Assessment
+                    source: https://github.com/learn-co-curriculum/ruby-oo-assessment
+                    uuid: 549e353d-f33d-4fb3-be76-1bf5d51baee9
+            -   title: Bonus - Debugging
+                uuid: cbabe6df-f413-4bfd-ad7f-69601235bfcc
+                contents:
+                -   title: Debug Me
+                    source: https://github.com/learn-co-curriculum/debug-me
+                    uuid: 13e2e127-9487-4a9a-9b2e-aff048fa81a9
+        -   title: 'Bonus - Other Datatypes: YAML and JSON'
+            uuid: f4482e9b-b317-463f-9b55-86a2733497cb
+            lessons:
+            -   title: Bonus - Working with YAML
+                uuid: db51d8a6-5d34-4351-a0d7-d0a9f9524105
+                contents:
+                -   title: Emoticon Translator
+                    source: https://github.com/learn-co-curriculum/emoticon-translator
+                    uuid: 16ca968a-1482-483d-a2b0-003424aac6a3
+            -   title: Bonus - Working with JSON
+                uuid: 0e45c2c5-99d6-4f8e-aef8-01453bea4020
+                contents:
+                -   title: Email Guesser
+                    source: https://github.com/learn-co-curriculum/email-guesser
+                    uuid: 57310ae8-af29-48db-94ac-a822c7b96bc7
+        -   title: Ruby Final Project
+            uuid: 82a110a6-8a71-4383-ac7f-c174af9ad129
+            lessons:
+            -   title: Final Project - A Command Line Interface Program
+                uuid: 12461898-f735-429e-b51b-2f9789bd436d
+                contents:
+                -   title: Cli Final Project
+                    source: https://github.com/learn-co-curriculum/cli-final-project
+                    uuid: a964fe57-f34d-48cf-9195-745ea933c8cf
+    -   title: Structured Query Language (SQL)
+        uuid: 90e961e4-0232-490d-8945-f86c602b8964
+        units:
+        -   title: Creating Tables
+            uuid: 11570052-f75a-4178-972e-ca349a30670b
+            lessons:
+            -   title: Creating Tables Tutorial
+                uuid: ef3392a7-a3ed-45ed-ab0e-fa461b63ab56
+                contents:
+                -   title: Sql Book Tables
+                    source: https://github.com/learn-co-curriculum/sql-book-tables
+                    uuid: 8a42dd24-6408-493d-b013-87841bada51c
+            -   title: Creating Tables Lab
+                uuid: 8e883db7-8b49-43c1-8e43-5c4cd0424993
+                contents:
+                -   title: Sql Create Tables Lab
+                    source: https://github.com/learn-co-curriculum/sql-create-tables-lab
+                    uuid: b44517d3-266c-40a9-acf9-d2f6aee516ca
+        -   title: INSERT and SELECT
+            uuid: 72c95d31-d6cc-4e8d-9323-7b6891d4312a
+            lessons:
+            -   title: INSERT and SELECT Tutorial
+                uuid: 9c5961cb-ee8e-49ba-95c0-684409848031
+                contents:
+                -   title: Sql Book Insert And Select
+                    source: https://github.com/learn-co-curriculum/sql-book-insert-and-select
+                    uuid: 3d3cf28e-d899-4ff0-969b-d392d640ee8d
+            -   title: More Operators Tutorial
+                uuid: d49e15eb-a0ca-4090-bea3-3bec54145a13
+                contents:
+                -   title: Sql Book Operators
+                    source: https://github.com/learn-co-curriculum/sql-book-operators
+                    uuid: 4fd8d0b4-ed51-46d6-95f6-8de68809ae37
+            -   title: INSERT and SELECT Lab
+                uuid: d3ffcd0b-cc63-4bf9-824c-e960593165b7
+                contents:
+                -   title: Sql Insert Select Lab
+                    source: https://github.com/learn-co-curriculum/sql-insert-select-lab
+                    uuid: 967bbba6-8484-4863-be8a-d9819782e370
+        -   title: UPDATE and DELETE
+            uuid: 22025bda-da53-4498-948e-7cbf66f5747e
+            lessons:
+            -   title: UPDATE Tutorial
+                uuid: 83d5f67e-2f64-41d6-8900-37548041e741
+                contents:
+                -   title: Sql Book Update
+                    source: https://github.com/learn-co-curriculum/sql-book-update
+                    uuid: 40fe639e-b677-4e3e-8a05-8207070a0b30
+            -   title: DELETE Tutorial
+                uuid: 1814dafa-0f66-4055-96d6-97181d3610ea
+                contents:
+                -   title: Sql Book Delete
+                    source: https://github.com/learn-co-curriculum/sql-book-delete
+                    uuid: 3448211a-3a73-407c-8faf-9a2b702f2e27
+            -   title: UPDATE and DELETE Lab
+                uuid: 5ad968fd-61f6-44ac-ac9e-d5e39c68bd88
+                contents:
+                -   title: Sql Update Delete Lab
+                    source: https://github.com/learn-co-curriculum/sql-update-delete-lab
+                    uuid: cdb7bfc6-9381-4379-ab4f-ce5fbeed46b9
+        -   title: Table Relations
+            uuid: 9b30ea77-d650-4290-8c8a-725dde049b38
+            lessons:
+            -   title: Primary and Foreign Keys and Relations Tutorial
+                uuid: d92572ab-2a62-436e-b912-eba247995c7e
+                contents:
+                -   title: Sql Book Keys And Relations
+                    source: https://github.com/learn-co-curriculum/sql-book-keys-and-relations
+                    uuid: 22275903-6d0a-4cf6-bb07-7329c1ac6178
+            -   title: Join Tables Tutorial
+                uuid: f97bebca-f69b-487b-927a-c30e0775d97d
+                contents:
+                -   title: Sql Book Joins
+                    source: https://github.com/learn-co-curriculum/sql-book-joins
+                    uuid: 44e1dd79-d7dd-4c0e-85c6-4743bd0cf623
+            -   title: Table Relations Lab
+                uuid: 9edc89b5-7347-496a-9f02-5eba01dbd4c5
+                contents:
+                -   title: Sql Table Relations Lab
+                    source: https://github.com/learn-co-curriculum/sql-table-relations-lab
+                    uuid: 7a1e57a9-8c1a-4cb4-9f1f-ce88333d4270
+        -   title: Bringing it all Together
+            uuid: 9e5c3569-a86f-4945-89ea-5d52b6c921fc
+            lessons:
+            -   title: Bear Organizer
+                uuid: 855065d3-35a3-4bf4-8b33-e7e12c3bc91b
+                contents:
+                -   title: Sql Bear Organizer
+                    source: https://github.com/learn-co-curriculum/SQL-bear-organizer
+                    uuid: fba4d23e-1821-4251-a00d-dcff700008d1
+            -   title: Crowdfunding Lab
+                uuid: fc5c4741-2326-4c3b-bc57-6c7899ee4671
+                contents:
+                -   title: Crowdfunding Sql Lab
+                    source: https://github.com/learn-co-curriculum/crowdfunding-sql-lab
+                    uuid: 9228d076-2c1e-4472-90f4-d2ca9972a178
+            -   title: Library Lab
+                uuid: fb962a15-fb66-413a-b8eb-89099ebfe6b5
+                contents:
+                -   title: Sql Library
+                    source: https://github.com/learn-co-curriculum/sql-library
+                    uuid: 3c5076a8-34e9-48b3-adda-b6f828369222
+            -   title: Ruby & SQL Together - Pokemon Scraper
+                uuid: f938d79e-3b55-41c9-a96b-60e83ad782c9
+                contents:
+                -   title: Pokemon Scraper
+                    source: https://github.com/learn-co-curriculum/pokemon-scraper
+                    uuid: acd18a79-90dc-4c23-bcc8-367ea3339975
+    -   title: Object Relational Mappers (ORMs)
+        uuid: 32d4ee55-f81c-4701-b7a5-a043fdd2ef3e
+        units:
+        -   title: Building an ORM
+            uuid: 7f6a4dd6-bc5b-465b-94b6-45da40fd1ba2
+            lessons:
+            -   title: School Domain Querying
+                uuid: fd3bb8e1-71a6-468e-b446-2e86d44d33ab
+                contents:
+                -   title: School Domain Querying
+                    source: https://github.com/learn-co-curriculum/school-domain-querying
+                    uuid: d87669de-7e30-4d6e-9e22-f1dd0d134975
+            -   title: School Domain with DB
+                uuid: 19b76c9e-c15f-4227-b5fc-5eaafba9a437
+                contents:
+                -   title: School Domain With Db
+                    source: https://github.com/learn-co-curriculum/school-domain-with-db
+                    uuid: a7c7f109-07fa-485c-96f1-3fa3851e112c
+            -   title: Abstract ORM Tutorial
+                uuid: 78ec0ff7-cd18-46d3-91d9-2e29451a39ef
+                contents:
+                -   title: Ruby Abstract Orm Tutorial
+                    source: https://github.com/learn-co-curriculum/ruby-abstract-orm-tutorial
+                    uuid: 3ef8857b-0f14-479e-b7b4-5cfef7057b11
+            -   title: Dynamic Meta ORM
+                uuid: 01e85c5b-2a19-4747-830e-18010f6c7938
+                contents:
+                -   title: Dynamic Orm
+                    source: https://github.com/learn-co-curriculum/dynamic-orm
+                    uuid: ee07045b-a496-4aab-bdc3-fe6fab58df7a
+            -   title: Mass Assignment
+                uuid: eedfb774-13db-4415-94be-68f16a73bafc
+                contents:
+                -   title: Mass Assignment
+                    source: https://github.com/learn-co-curriculum/mass-assignment
+                    uuid: cd2d5526-30f6-44c5-a02f-254205d12a47
+        -   title: Rake Tasks
+            uuid: b3a958a7-0ce4-4ddb-98b4-5e6164f0eeb2
+            lessons:
+            -   title: Rake TODO
+                uuid: a5638fa1-9f03-43c3-a088-788e1dc66f65
+                contents:
+                -   title: Rake Todo
+                    source: https://github.com/learn-co-curriculum/rake-todo
+                    uuid: fc776918-b11a-439b-a801-5c4f267fa34c
+        -   title: ActiveRecord Migrations and CRUD
+            uuid: 9e8cec03-7390-4d9c-bf4a-3c9c4501ed7f
+            lessons:
+            -   title: ActiveRecord ORM Tutorial
+                uuid: 1630fcbb-0f51-429f-8206-69f0f88ef233
+                contents:
+                -   title: Activerecord Orms Tutorial
+                    source: https://github.com/learn-co-curriculum/activerecord-orms-tutorial
+                    uuid: 1f0294b8-48c3-4724-abea-e4565443291e
+            -   title: ActiveRecord Costume Store
+                uuid: 369e55b0-8605-477a-91a5-3a015e86a687
+                contents:
+                -   title: Activerecord Costume Store Todo
+                    source: https://github.com/learn-co-curriculum/activerecord-costume-store-todo
+                    uuid: 8e8e825e-c765-4171-b0cd-8d4cdfbe8f7b
+            -   title: Active Record CRUD Lab
+                uuid: 3ceaccc3-228a-4822-a6d8-dc465cceafba
+                contents:
+                -   title: Activerecord Crud
+                    source: https://github.com/learn-co-curriculum/activerecord-crud
+                    uuid: 1d9281ea-a434-4310-a635-9e5cb087c3bc
+            -   title: Mass Assignment
+                uuid: 39307dfe-0641-48fb-a6f1-f44a2ee71106
+                contents:
+                -   title: Mass Assignment
+                    source: https://github.com/learn-co-curriculum/mass-assignment
+                    uuid: cec28efc-d56f-4fb5-8c28-bf018ffa60a4
+        -   title: ActiveRecord Associations
+            uuid: d5824b90-c1bd-43c6-985f-e1bfcd5207e1
+            lessons:
+            -   title: Playlister on ActiveRecord
+                uuid: eba14a32-a5d3-4f5a-9932-ddfa86d4a481
+                contents:
+                -   title: Playlister On Activerecord
+                    source: https://github.com/learn-co-curriculum/playlister-on-activerecord
+                    uuid: 7a3fe2e9-b1e0-4b0d-b283-3eb5c2faa66f
+            -   title: ActiveRecord TV Land
+                uuid: 10410705-5758-427a-9b0b-88f104b1c964
+                contents:
+                -   title: Activerecord Tvland
+                    source: https://github.com/learn-co-curriculum/activerecord-tvland
+                    uuid: c4fbf412-969f-49b4-8ec3-543a62119d45
+    -   title: Rack
+        uuid: e3501527-0141-42e1-8e98-9c85e5d17d69
+        units:
+        -   title: Introduction
+            uuid: 9140f540-b2ff-422e-8e8a-072390f3bbe3
+            lessons: []
+        -   title: HTTP Protocols
+            uuid: 37bf0f9a-0673-48f9-80ce-68daaae0aa75
+            lessons:
+            -   title: The Internet Lecture
+                uuid: 28e4deb5-c1f3-483a-b73c-b3f7ed24c599
+                contents: []
+            -   title: Domain Name System (DNS)
+                uuid: 1f4be3cf-b69f-4ed9-bbeb-310cd6568b3d
+                contents:
+                -   title: Rack Dns Readme
+                    source: https://github.com/learn-co-curriculum/rack-dns-readme
+                    uuid: 998d162d-0b12-47bf-83eb-0dd8fce6ac04
+            -   title: HTTP Headers
+                uuid: b46b682f-bd66-46b8-8632-9b681eb8f4e4
+                contents:
+                -   title: Rack Headers Readme
+                    source: https://github.com/learn-co-curriculum/rack-headers-readme
+                    uuid: 2b3fce63-e72b-4a6f-8b28-8e3cb0c3e7f6
+            -   title: HTTP Request
+                uuid: fa6bebca-bc0c-4be6-b99c-74ca3e70fb41
+                contents:
+                -   title: Rack Request Readme
+                    source: https://github.com/learn-co-curriculum/rack-request-readme
+                    uuid: 8010e85f-c025-4fe4-ae73-31ae3e5ba088
+            -   title: HTTP Response
+                uuid: b52389c3-928a-4edb-82d5-6df4b99489be
+                contents:
+                -   title: Rack Response Readme
+                    source: https://github.com/learn-co-curriculum/rack-response-readme
+                    uuid: 072fae33-6c3a-4013-9aea-eecc42d11bcc
+            -   title: HTTP Status Codes
+                uuid: 8e28c028-a8e2-4426-b163-b308bb18ca4d
+                contents:
+                -   title: Rack Status Codes Readme
+                    source: https://github.com/learn-co-curriculum/rack-status-codes-readme
+                    uuid: 46804c89-de6a-4d83-9407-094af4eb30df
+            -   title: HTTP methods
+                uuid: 90c6a934-b649-441f-b709-d6f8e13ee24b
+                contents:
+                -   title: Http Methods Readme
+                    source: https://github.com/learn-co-curriculum/http-methods-readme
+                    uuid: 1883e66c-a16b-482c-b4ad-e2a97f705e89
+        -   title: Building a Website with Rack
+            uuid: 6dab8e4a-4f03-4a30-a353-d316eba50e6d
+            lessons:
+            -   title: Rack Lecture
+                uuid: 6640ae23-96eb-4f2a-baf1-aa2c2aefc077
+                contents: []
+            -   title: Rack Todo
+                uuid: ca35633e-e8c3-4921-82cc-ed72f43c7cc5
+                contents:
+                -   title: Rack Todo
+                    source: https://github.com/learn-co-curriculum/rack-todo
+                    uuid: f8284a8f-b1a9-4a05-b6d9-3c8e0d6079aa
+            -   title: Config.ru Tutorial
+                uuid: de976468-9047-49ea-ae06-4344b601e3fa
+                contents:
+                -   title: Config Ru Tutorial
+                    source: https://github.com/learn-co-curriculum/config-ru-tutorial
+                    uuid: 68024daa-c138-49e5-8711-1d73681b42c1
+            -   title: Middleware Tutorial
+                uuid: 1fb143c0-6604-4fee-bc13-41d200e1164e
+                contents:
+                -   title: Middleware Tutorial
+                    source: https://github.com/learn-co-curriculum/middleware-tutorial
+                    uuid: cc029b97-66d8-471c-a62c-f786b91d5af6
+            -   title: Bringing it all Together
+                uuid: 88bfc600-dd1b-4344-92df-2d209bdf9c00
+                contents:
+                -   title: Rack Lab
+                    source: https://github.com/learn-co-curriculum/rack-lab
+                    uuid: 4033b445-a33d-49db-a99a-f07595047018
+    -   title: ERB
+        uuid: 3e766440-ebea-40df-b274-584b6cf551ae
+        units:
+        -   title: Displaying Data
+            uuid: df0f3f2a-ac8c-4ce3-b11c-dd9829b3bd84
+            lessons:
+            -   title: ERB Lecture
+                uuid: 0213958e-1647-4724-8025-71297e6a11df
+                contents: []
+            -   title: An Introduction to ERB
+                uuid: 8f95cabf-2e46-4832-97fc-909d5b78cde1
+                contents:
+                -   title: Erb Templating
+                    source: https://github.com/learn-co-curriculum/erb-templating
+                    uuid: abeee0cf-dc81-444e-ac0a-6dab7c23407b
+            -   title: Working with HTML and ERB
+                uuid: 6d6ebbcc-f000-47ca-b876-d83d2d0b9dfb
+                contents:
+                -   title: Playlister Static Generator With Ar
+                    source: https://github.com/learn-co-curriculum/playlister-static-generator-with-ar
+                    uuid: 6ae56d29-5f1b-4209-90c4-08a6b4f2dc88
+            -   title: Bonus - Generating HTML
+                uuid: d3120ec5-e4a4-4c63-80a2-20d760d99389
+                contents:
+                -   title: Oo Neopet Html Generator
+                    source: https://github.com/learn-co-curriculum/oo-neopet-html-generator
+                    uuid: 2c764d3c-db50-4e03-a9b6-f495935d74b1
+    -   title: Sinatra
+        uuid: 4f46e9dc-f0fe-4784-9654-1866e4d79849
+        units:
+        -   title: Introduction
+            uuid: 3ac69f2a-93c9-4bd7-9d33-2080aa20738a
+            lessons:
+            -   title: Middleware
+                uuid: 0f462f88-a7b3-4d4d-9f72-47a2d2adab4e
+                contents:
+                -   title: Sinatra Middleware Readme
+                    source: https://github.com/learn-co-curriculum/sinatra-middleware-readme
+                    uuid: dc55e077-ef58-4c7a-bd87-8730d0e5b453
+            -   title: File Structure
+                uuid: 7a1c1e1e-7b79-4b94-ad28-3c53df9d6977
+                contents:
+                -   title: Sinatra Classic File Structure Readme
+                    source: https://github.com/learn-co-curriculum/sinatra-classic-file-structure-readme
+                    uuid: 72712d43-dcab-43ac-af7c-015407f1b7dd
+            -   title: Routes
+                uuid: 6d013246-989a-4f3c-957a-e5893bd50d79
+                contents:
+                -   title: Sinatra Routes Readme
+                    source: https://github.com/learn-co-curriculum/sinatra-routes-readme
+                    uuid: c65deb10-ae23-4dbe-94cc-c609411672fd
+            -   title: URL params
+                uuid: bd5c61e5-0488-4dd5-abbd-0ca37ba368d1
+                contents:
+                -   title: Sinatra Params Readme
+                    source: https://github.com/learn-co-curriculum/sinatra-params-readme
+                    uuid: bfd245cb-2ac1-4f87-8c74-5d6083fd11d0
+            -   title: Sinatra Twitter Todo Tutorial
+                uuid: 0ff1a2ff-c942-42fd-8f18-a36d26139242
+                contents:
+                -   title: Sinatra Twitter Todo
+                    source: https://github.com/learn-co-curriculum/sinatra-twitter-todo
+                    uuid: ce607b0a-aab5-4b4c-836e-145d5c784536
+            -   title: Working with Routes Todo
+                uuid: 75ac9223-cc28-4913-90c7-fff8a3665431
+                contents:
+                -   title: Sinatra Rspec Intro
+                    source: https://github.com/learn-co-curriculum/sinatra-rspec-intro
+                    uuid: 8f34f52a-8408-41ff-8e5a-90cf2a6dfaa6
+            -   title: Your First Sinatra App - RPS Game
+                uuid: 872cd768-141f-4099-b1e5-bc1504a2c660
+                contents:
+                -   title: Rps Game App
+                    source: https://github.com/learn-co-curriculum/rps-game-app
+                    uuid: 3b1e1866-2d47-4e24-b91d-74fbb1c7f7b1
+            -   title: Making POST requests
+                uuid: 5d25c4c2-a35c-49c5-b307-1aec83db112f
+                contents:
+                -   title: Sinatra Messages
+                    source: https://github.com/learn-co-curriculum/sinatra-messages
+                    uuid: 940bea70-7b82-4c97-9900-edb04a99bf05
+        -   title: Forms
+            uuid: 7101117a-0b4b-45d9-a34e-24c5ba088657
+            lessons:
+            -   title: Sinatra Forms Lecture
+                uuid: f0fa6647-bd67-4929-bbb7-cc7a2f5b17af
+                contents: []
+            -   title: Basic Forms
+                uuid: 236e6267-d3c5-4961-ae57-687806a32437
+                contents:
+                -   title: Sinatra Basic Forms
+                    source: https://github.com/learn-co-curriculum/sinatra-basic-forms
+                    uuid: 6c87260b-11f3-4656-b4fe-f41dffd940a5
+            -   title: Introductory Nested Forms
+                uuid: 97a13bd9-a7dc-4804-aa0c-4ce86c5ab9cb
+                contents:
+                -   title: Sinatra Nested Forms
+                    source: https://github.com/learn-co-curriculum/sinatra-nested-forms
+                    uuid: 34fcf00e-33da-4947-8ea0-0a2fb8d26c5d
+            -   title: Intermediate Nested Forms
+                uuid: 645ced5c-b3e2-4fb7-a107-5cbd920ef1a9
+                contents:
+                -   title: Super Sinatra Forms
+                    source: https://github.com/learn-co-curriculum/super-sinatra-forms
+                    uuid: 76e0b3ec-d19a-4ef0-88dc-2df82cb6d9c5
+        -   title: Sessions
+            uuid: a1001bb8-c6da-49f2-92a2-62cae8323bae
+            lessons:
+            -   title: About Cookies
+                uuid: 35cfbf41-f517-4711-bf79-089cdaee55f3
+                contents:
+                -   title: Sinatra Cookies Readme
+                    source: https://github.com/learn-co-curriculum/sinatra-cookies-readme
+                    uuid: fa35ed6d-7dff-4bd1-8fd1-3828d02db42d
+            -   title: Sinatra Sessions Lecture
+                uuid: 921b35a2-0887-4717-8afa-e2b1f5935da8
+                contents: []
+            -   title: Using Sinatra Sessions
+                uuid: 1919d3c0-0f9b-4c66-bb8e-0c4fc77cf821
+                contents:
+                -   title: Sinatra Sessions
+                    source: https://github.com/learn-co-curriculum/sinatra-sessions
+                    uuid: 961d99e5-7d36-4c6b-85c3-af871a6f4da3
+            -   title: Using Sessions - Sinatra Adventure
+                uuid: 9ea6579c-decd-49e7-b02e-65cf7b008f2a
+                contents:
+                -   title: Sinatra Adventure
+                    source: https://github.com/learn-co-curriculum/sinatra-adventure
+                    uuid: 55a09fae-df34-4952-a7d1-af407389b886
+        -   title: Incorporating ActiveRecord
+            uuid: a8b706be-0853-4aa6-afc8-7f71e54c5782
+            lessons:
+            -   title: MVC File Structure
+                uuid: d2aa7407-098e-4528-863b-e93a37c1efe0
+                contents:
+                -   title: Sinatra Mvc File Structure Readme
+                    source: https://github.com/learn-co-curriculum/sinatra-mvc-file-structure-readme
+                    uuid: b8151577-86eb-4777-b99c-30d02edf7c26
+            -   title: CRUD & Associations - Playlister Sinatra
+                uuid: 3c615865-8942-4ffa-8f38-87e20b6c7a96
+                contents:
+                -   title: Playlister Sinatra
+                    source: https://github.com/learn-co-curriculum/playlister-sinatra
+                    uuid: b35bf1f0-ae44-44a8-99f3-90603db40e98
+            -   title: Associations & Forms - NYC Sinatra
+                uuid: ee9ac47b-d4ae-4c19-869b-8aa1568e1689
+                contents:
+                -   title: Nyc Sinatra
+                    source: https://github.com/learn-co-curriculum/nyc-sinatra
+                    uuid: 593f9370-705b-4455-bb15-4a0f3e5ced2c
+        -   title: Bringing it all Together
+            uuid: 3249ac82-443b-4ed3-9ef3-63130b3fa201
+            lessons:
+            -   title: Introductory - Sinatra Pigeon
+                uuid: e94d3589-cc7c-4704-ab6a-4771391ad75c
+                contents:
+                -   title: Sinatra Pigeon
+                    source: https://github.com/learn-co-curriculum/sinatra-pigeon
+                    uuid: 53be3197-5bd3-4aaf-a639-dcc64e6e2e60
+            -   title: Sinatra Application Code Along
+                uuid: ee4e0b70-f72c-423a-bb71-4a6231e524b0
+                contents: []
+            -   title: Intermediate - ORM Halloween
+                uuid: b71d7ca9-765a-40a7-8c18-5a28edb06abe
+                contents:
+                -   title: Sinatra Orm Halloween
+                    source: https://github.com/learn-co-curriculum/sinatra-orm-halloween
+                    uuid: a124cc74-2de9-470c-afa7-2409649ea02a
+            -   title: Sinatra Assessment
+                uuid: 7df4b424-6622-4347-873e-c71b38876789
+                contents:
+                -   title: Sinatra Orm Quiz
+                    source: https://github.com/learn-co-curriculum/sinatra-orm-quiz
+                    uuid: 0d14bd2b-7392-493a-8b54-cbe09be80f80
+            -   title: Building Rails with Sinatra
+                uuid: fbce0d5d-96d6-4935-874d-ec20ed7eced6
+                contents:
+                -   title: Sinatra Students
+                    source: https://github.com/learn-co-curriculum/sinatra-students
+                    uuid: 21a466f1-7f0b-45b5-8def-4c80c7efac4e
+            -   title: Final Project - Sinatra App
+                uuid: 74ae6c26-fe87-4e20-954b-6e491429a5e1
+                contents:
+                -   title: Sinatra Final Project
+                    source: https://github.com/learn-co-curriculum/sinatra-final-project
+                    uuid: 7b5c2047-9b49-4f2a-8b10-b74802e8b9f3
+    -   title: Rails
+        uuid: c0fff740-9528-47ed-8cd8-a90840a88e5d
+        units:
+        -   title: Introduction
+            uuid: 4a17fac8-8261-4e62-bda8-4e89b3d42055
+            lessons:
+            -   title: PotD - DHH
+                uuid: 93d14453-cf2d-4a1e-8edd-127218b9052f
+                contents: []
+            -   title: Rails File Structure
+                uuid: 857b6b97-0366-4221-9982-af66ce6a7c7d
+                contents:
+                -   title: Rails Mvc Structure Readme
+                    source: https://github.com/learn-co-curriculum/rails-mvc-structure-readme
+                    uuid: 056b567e-78bc-4cbc-aece-75d30088765b
+            -   title: Rails Blog Scaffold
+                uuid: 6d8c67db-271c-46c3-a010-f0ef6be5536a
+                contents:
+                -   title: Rails Blog Scaffold
+                    source: https://github.com/learn-co-curriculum/rails-blog-scaffold
+                    uuid: f749de2e-150d-49ab-b091-82369fa6133c
+            -   title: Rails Overview Lecture
+                uuid: 5600e9c0-cef2-4e55-9a4b-7a602f8e5724
+                contents: []
+        -   title: Forms & Validations
+            uuid: ea7160f0-bd55-4433-a7f0-20c720f513a1
+            lessons:
+            -   title: Forms and Validations Lecture
+                uuid: c967fd00-770c-4c59-a593-a0a7017cbe40
+                contents: []
+            -   title: About Forms in Rails
+                uuid: 0072aa32-6248-4d3b-a5bc-0ae5d39c011c
+                contents:
+                -   title: Rails Forms Readme
+                    source: https://github.com/learn-co-curriculum/rails-forms-readme
+                    uuid: e9f46fa5-7aef-4505-ad52-f4a54b7d6992
+            -   title: Rails Blog Associations & Validations
+                uuid: 64e00b37-9832-4c96-9b70-f9c605ce370f
+                contents:
+                -   title: Rails Blog Associations Validations
+                    source: https://github.com/learn-co-curriculum/rails-blog-associations-validations
+                    uuid: b520bf84-ee38-4cc8-bfab-3e211e8b37b6
+            -   title: Forms in Rails - Formal Affair Rails
+                uuid: a5f7e697-e1c7-4f91-833c-7ee08aebccc8
+                contents:
+                -   title: Formal Affair Rails
+                    source: https://github.com/learn-co-curriculum/formal-affair-rails
+                    uuid: 0db715e6-c3ec-430e-b8cf-5c92cba38041
+            -   title: Rails Blog Nested Forms
+                uuid: 72abf661-15d9-4cbb-912b-e4962addc169
+                contents:
+                -   title: Rails Blog Nested Forms
+                    source: https://github.com/learn-co-curriculum/rails-blog-nested-forms
+                    uuid: fe1b8915-06d1-4bad-b721-3b3c425e846c
+        -   title: ActiveRecord
+            uuid: 310984f2-a89d-4a0b-b7b3-e6463bb47cfd
+            lessons:
+            -   title: Writing Joins - Join the Fun Rails
+                uuid: 390f6d31-4f92-4be4-9e51-732d2eac8e36
+                contents:
+                -   title: Join The Fun Rails
+                    source: https://github.com/learn-co-curriculum/join-the-fun-rails
+                    uuid: d3956318-13a2-4ae1-8ff7-ad54cb1cb58c
+            -   title: Models & Associations - Pollywog Ranch
+                uuid: 4ffaae03-9c83-4eba-b29c-bf28c512ca35
+                contents:
+                -   title: Rails Pollywog Ranch
+                    source: https://github.com/learn-co-curriculum/rails-pollywog-ranch
+                    uuid: 7076b48e-0e00-4d1e-953f-3acfefaa3ba2
+            -   title: Arel / Advanced Querying Lecture
+                uuid: a771cb6e-dc66-4b65-a6ee-2ec404c3317a
+                contents: []
+            -   title: Rails Simple Search
+                uuid: 9c660dad-5ba6-4041-afb5-69204320e97a
+                contents:
+                -   title: Rails Simple Search
+                    source: https://github.com/learn-co-curriculum/rails-simple-search
+                    uuid: a7a75a3c-4db4-4060-8730-7142012fc6e7
+            -   title: Arel Lab
+                uuid: 4b8774f2-8748-4817-ae2c-00676295673a
+                contents:
+                -   title: Arel Lab
+                    source: https://github.com/learn-co-curriculum/arel-lab
+                    uuid: 30299042-c839-49f6-8334-216db37af765
+            -   title: Flatiron BNB Associations
+                uuid: 137a8eb8-589c-4abd-adfc-2d778739157e
+                contents:
+                -   title: Flatiron Bnb Associations
+                    source: https://github.com/learn-co-curriculum/flatiron-bnb-associations
+                    uuid: b789f832-11b9-4309-a5ae-8ba911becc4c
+        -   title: Helper & Private Methods
+            uuid: fd8a4170-7f78-4a40-9acc-030600e0e44f
+            lessons:
+            -   title: Flatiron BNB Methods Lab
+                uuid: 483fd672-b88c-4f37-8ec9-a3cb341c6f28
+                contents:
+                -   title: Flatiron Bnb Methods
+                    source: https://github.com/learn-co-curriculum/flatiron-bnb-methods
+                    uuid: 9dd3dfa5-ffe6-4be6-b443-62f29630b403
+            -   title: Flatiron BNB Methods Walkthrough
+                uuid: ac6def48-12b8-496d-a5e0-1ebb6f7a19de
+                contents: []
+        -   title: 'Collections & Partials '
+            uuid: 06e112b4-c945-4f55-9d3d-dc54ecde2721
+            lessons:
+            -   title: Collections & Partials Lecture
+                uuid: 3b8eb3aa-7658-4c3a-a8ce-984c0c2c9113
+                contents: []
+        -   title: Routes & Resources
+            uuid: 247232a8-13c6-4334-8aa5-56b485c71049
+            lessons:
+            -   title: Nested Routes and Resources Lecture
+                uuid: 36076207-dc1a-427d-a508-a0205e6b281b
+                contents: []
+            -   title: Rails Blog Nested Resources
+                uuid: 824f8ebf-974b-4043-9b1a-64a72e49f3e6
+                contents:
+                -   title: Rails Blog Nested Resources
+                    source: https://github.com/learn-co-curriculum/rails-blog-nested-resources
+                    uuid: 690218db-7f0a-46e9-9346-e0cf3d8a4c4e
+            -   title: Your First Application - Flatiron Kitchen
+                uuid: fe65862e-4c18-45c6-a6c2-f6760df88dae
+                contents:
+                -   title: Flatiron Kitchen
+                    source: https://github.com/learn-co-curriculum/flatiron-kitchen
+                    uuid: df62d6da-3bbc-4166-be9d-b88621f99505
+        -   title: Asset Pipeline
+            uuid: a5bb2e67-b723-4498-acee-ad904381c29c
+            lessons:
+            -   title: Asset Pipeline Lecture
+                uuid: 70ad4aee-7aaa-4453-b3ca-5f2a5c85c0ad
+                contents: []
+            -   title: Rails Blog Asset Pipeline
+                uuid: 7f346c72-dbf3-43ac-accc-1599c19645eb
+                contents:
+                -   title: Rails Blog Asset Pipeline
+                    source: https://github.com/learn-co-curriculum/rails-blog-asset-pipeline
+                    uuid: 220edcae-dcfc-4033-a84e-b2ea47ca8c2a
+        -   title: Authentication
+            uuid: 45a6b1d6-f6e8-411e-8f6a-3d2f9552d56c
+            lessons:
+            -   title: Sessions Lecture
+                uuid: edec00ef-a8e0-4e26-ba04-db144788c093
+                contents: []
+            -   title: Rails Blog Sessions
+                uuid: 21a6dcb6-4f9b-478d-9a3f-6b553547f07b
+                contents:
+                -   title: Rails Blog Sessions
+                    source: https://github.com/learn-co-curriculum/rails-blog-sessions
+                    uuid: cd3db269-4e5f-4125-9bac-a3ed7dde9151
+            -   title: Rails Blog Omniauth
+                uuid: b93cf134-7e41-488b-814a-beb4c38c0ee0
+                contents:
+                -   title: Rails Blog Omniauth
+                    source: https://github.com/learn-co-curriculum/rails-blog-omniauth
+                    uuid: 83337e51-bd91-401e-8b03-8babb745f2db
+            -   title: Full Application - Rails Amusement Park
+                uuid: a4e5e575-a036-4b39-a8d4-140717a176b2
+                contents:
+                -   title: Rails Amusement Park
+                    source: https://github.com/learn-co-curriculum/rails-amusement-park
+                    uuid: f4e6c187-e40d-43db-b4cf-1698afa55988
+        -   title: Bringing it all Together
+            uuid: 41e4702f-e26c-4a13-af7e-fb262646633c
+            lessons:
+            -   title: Full Application - Rails Flatiron Store
+                uuid: b7228d9f-9195-46ab-9f46-af8bc79ec2df
+                contents:
+                -   title: Rails Flatiron Store
+                    source: https://github.com/learn-co-curriculum/rails-flatiron-store
+                    uuid: e15eaaad-cb8a-4a8e-a113-fc59b280ec37
+            -   title: Full Application - Rails Flatiron Kitchen
+                uuid: ae31d29e-d470-4a8c-843b-ff29c1903052
+                contents:
+                -   title: Flatiron Kitchen
+                    source: https://github.com/learn-co-curriculum/flatiron-kitchen
+                    uuid: 77ed6214-5f02-4c78-9aa7-dce41d03a464
+            -   title: Bonus - Full Application - from Scratch
+                uuid: ff7ff7fe-8744-437c-88b7-116e5bfd884e
+                contents:
+                -   title: Amoeba Circus On Rails
+                    source: https://github.com/learn-co-curriculum/amoeba-circus-on-rails
+                    uuid: f28f66f2-b9f3-4e1f-9075-f7102616b1ea
+            -   title: Bonus - Debugging
+                uuid: 42671fd5-aa43-433a-8788-680e27d3faac
+                contents:
+                -   title: Rails Bug Hunt
+                    source: https://github.com/learn-co-curriculum/rails-bug-hunt
+                    uuid: 34476cc0-f876-47ca-a104-195fe95f9ec9
+        -   title: Building APIs
+            uuid: 354634a1-c7ac-4400-b5b9-cc23f6f90b3b
+            lessons:
+            -   title: Working with JSON - JSON Palooza
+                uuid: cfa5d0ef-f6fb-4b62-aa13-99251cb56d2d
+                contents:
+                -   title: Json Palooza
+                    source: https://github.com/learn-co-curriculum/json-palooza
+                    uuid: 9bab367d-5881-4f0a-9502-ee5c644233b2
+            -   title: Building an API - Flatiron BNB API
+                uuid: 2ef466b2-c532-4816-bdda-fff437692f9d
+                contents:
+                -   title: Flatiron Bnb Api
+                    source: https://github.com/learn-co-curriculum/flatiron-bnb-api
+                    uuid: 4654126b-6bfd-4105-b198-e1e723548e51
+        -   title: Deploying
+            uuid: 926d5b86-7040-49ee-ab50-8d7852bf37a7
+            lessons:
+            -   title: Deploying to Heroku
+                uuid: 23a2caf1-9dea-4d01-8b3f-fab24e6c36dc
+                contents:
+                -   title: Rails Heroku Deployment
+                    source: https://github.com/learn-co-curriculum/rails-heroku-deployment
+                    uuid: 7ad7c7c1-127a-4c24-aada-ff1fa9de9647
+        -   title: Final Project
+            uuid: dcd68c75-01ce-4fff-ab22-3bae0fbf59c3
+            lessons:
+            -   title: Rails Final Project
+                uuid: a67935c2-575a-4408-9c80-01df50e1c4c3
+                contents:
+                -   title: Rails Final Project
+                    source: https://github.com/learn-co-curriculum/rails-final-project
+                    uuid: f8f741da-6cc4-4dcd-9ed8-52661a80fea7
+        -   title: Refactoring
+            uuid: cdcf143e-2cc4-43ba-bc37-6133725828df
+            lessons:
+            -   title: Rails Refactoring
+                uuid: 11cb35b1-f1d2-46af-b049-eaefee0010f6
+                contents:
+                -   title: Rails Refactoring
+                    source: https://github.com/learn-co-curriculum/rails-refactoring
+                    uuid: f8e6b591-9aa1-4671-8cdb-cfc3e21027a9
+        -   title: Advanced
+            uuid: 5b2f6c56-5ea3-40bb-8c6a-9cd827225840
+            lessons:
+            -   title: Integrating Stripe with Flatiron Store
+                uuid: f223ae5b-4869-4ad9-a737-2618376e29b9
+                contents:
+                -   title: Rails Flatiron Store Checkout
+                    source: https://github.com/learn-co-curriculum/rails-flatiron-store-checkout
+                    uuid: 705c2852-393e-42e2-afce-e6254bdceee2
+    -   title: JavaScript
+        uuid: fcf67365-00e7-49d5-b14b-946e8697f44f
+        units:
+        -   title: Introduction to JavaScript
+            uuid: e30115e4-bec3-4f38-89ee-0e3b1fbb6d9e
+            lessons:
+            -   title: Intro to JavaScript Testing with Jasmine
+                uuid: d0f1cd91-c490-4e9d-93be-06691b9cd1aa
+                contents:
+                -   title: Intro To Js And Jasmine
+                    source: https://github.com/learn-co-curriculum/intro-to-js-and-jasmine
+                    uuid: 0f034e38-2312-4f15-be90-ad8369bdc264
+                -   title: Js Basics Readme
+                    source: https://github.com/learn-co-curriculum/js-basics-readme
+                    uuid: d2e4780e-e931-418b-92b1-de4526ae0975
+            -   title: isBetween
+                uuid: 11a09302-2c39-48a1-84c3-e184fb7099b7
+                contents:
+                -   title: Is Between.Js
+                    source: https://github.com/learn-co-curriculum/isBetween.js
+                    uuid: 4cf2a8dd-b529-4f0d-9e74-4637b3d770a8
+            -   title: Conditionals with FizzBuzz
+                uuid: 7113b32d-48a6-4689-a58d-d14cf3c53f04
+                contents:
+                -   title: Js Fizzbuzz
+                    source: https://github.com/learn-co-curriculum/js-fizzbuzz
+                    uuid: 5b8ee122-6a59-4ce6-83cb-fd141d36176d
+            -   title: JavaScript's Math library
+                uuid: c3d1d851-9966-4ec1-8a91-542988b26c27
+                contents:
+                -   title: Dice.Js
+                    source: https://github.com/learn-co-curriculum/dice.js
+                    uuid: f3b4fa0c-dbf7-403d-9a30-6f298bb282bb
+            -   title: teenager.js
+                uuid: 79c8e630-a9a3-4322-a81e-a5ca1e4118b9
+                contents:
+                -   title: Teenager.Js
+                    source: https://github.com/learn-co-curriculum/teenager.js
+                    uuid: 0687a73d-bbee-4c2c-b8b2-a4dbe84aa5b9
+        -   title: Object Oriented JavaScript
+            uuid: d1d5dc14-5325-41a3-8007-509d935b34a3
+            lessons:
+            -   title: Constructors and Prototypes
+                uuid: 36a73fc3-388b-408c-a397-34038e9c479e
+                contents:
+                -   title: Js Prototypes And Constructors
+                    source: https://github.com/learn-co-curriculum/js-prototypes-and-constructors
+                    uuid: 8d218bee-7c30-482b-8a2f-8d2154510f55
+            -   title: Intro to OO with Dog.JS
+                uuid: 1b677ce0-14c3-48be-837c-acbae87d63e0
+                contents:
+                -   title: Dog.Js
+                    source: https://github.com/learn-co-curriculum/dog.js
+                    uuid: 62ad5baf-5cba-44ec-9f94-48232b6c9311
+            -   title: OO Bicycles
+                uuid: 0b3e0c2f-de68-44e7-a558-a2098f291e3b
+                contents:
+                -   title: Js Oo Introduction
+                    source: https://github.com/learn-co-curriculum/js-oo-introduction
+                    uuid: ec389331-bcde-4672-96db-fd7e647155a9
+            -   title: Closures Todo
+                uuid: 07d3c39c-b43f-4d6f-bd41-f5b579fa6b36
+                contents:
+                -   title: Chocolate Babka Closures
+                    source: https://github.com/learn-co-curriculum/chocolate-babka-closures
+                    uuid: 6c1e7983-17e0-429f-8eb1-ae5829afe2b5
+            -   title: Space Invaders
+                uuid: ea2c64af-fd4e-42e3-b028-db8bf3895105
+                contents:
+                -   title: Space Invaders
+                    source: https://github.com/learn-co-curriculum/space-invaders
+                    uuid: b57b7fbc-0c71-4754-9add-69d61752c6f0
+            -   title: strain.js
+                uuid: f638c5bf-37ef-46f4-8e21-50dd3fb05f09
+                contents:
+                -   title: Strain.Js
+                    source: https://github.com/learn-co-curriculum/strain.js
+                    uuid: e69083a5-4672-4264-9334-94e40e6867c4
+            -   title: series.js
+                uuid: 5b262bb2-0e9a-46d1-aea4-39dfaf909d21
+                contents:
+                -   title: Series.Js
+                    source: https://github.com/learn-co-curriculum/series.js
+                    uuid: 2fd14598-bbfa-45f4-a80d-57ae20579af6
+            -   title: js-tweet-shortener
+                uuid: 35d7b1b8-4f2c-4861-bf45-efbb861ac0f7
+                contents:
+                -   title: Js Tweet Shortener
+                    source: https://github.com/learn-co-curriculum/js-tweet-shortener
+                    uuid: 8ad3c921-9653-479b-bbf1-147c50f641a1
+            -   title: wordy.js
+                uuid: 2b0666fd-bcb6-485c-aac6-faefdc8f999f
+                contents:
+                -   title: Wordy.Js
+                    source: https://github.com/learn-co-curriculum/wordy.js
+                    uuid: 769f9e01-a71f-44fa-94d9-fcd076771e67
+            -   title: triangle.js
+                uuid: c851b75c-8a95-47ba-b368-f749a5513013
+                contents:
+                -   title: Triangle.Js
+                    source: https://github.com/learn-co-curriculum/triangle.js
+                    uuid: 59714fde-ec29-4fe4-83ae-e2e79727a8a9
+            -   title: robotSimulator.js
+                uuid: f673ac84-4ace-4c18-9fb7-cc92f475ff70
+                contents:
+                -   title: Robot Simulator.Js
+                    source: https://github.com/learn-co-curriculum/robotSimulator.js
+                    uuid: d9a71e94-4feb-445a-966d-c9b424ccbe44
+            -   title: Kindergarten Garden
+                uuid: 5469a5aa-13bf-4c76-9d63-6eb3688bc861
+                contents:
+                -   title: Kindergarten Garden.Js
+                    source: https://github.com/learn-co-curriculum/kindergartenGarden.js
+                    uuid: e7945866-eee6-468e-be8b-d2bad84868f5
+        -   title: jQuery
+            uuid: a3d39c8d-e23a-478e-a47e-7da66972cec0
+            lessons:
+            -   title: Making your own jQuery
+                uuid: 076a99a0-a6c9-4330-939f-9072c73958f3
+                contents:
+                -   title: My Query
+                    source: https://github.com/learn-co-curriculum/myQuery
+                    uuid: e6759a37-9786-4a3b-be65-43028afaf8f1
+            -   title: jQuery Selector Basics
+                uuid: 93cbb933-c2fc-4543-b47f-34eda51ca486
+                contents:
+                -   title: J Query Selector Basics
+                    source: https://github.com/learn-co-curriculum/jQuery-selector-basics
+                    uuid: 90db09fd-1c34-42b2-b4d6-d3b24219d330
+            -   title: jQuery donut party
+                uuid: cc28a586-bad2-48eb-8ea6-1ff78b3b13a7
+                contents:
+                -   title: J Query Donut Party
+                    source: https://github.com/learn-co-curriculum/jQuery-donut-party
+                    uuid: 5513b754-041e-408b-990f-4e6de1f5bc67
+            -   title: jQuery User Input Calculator
+                uuid: f5a9f45a-b90a-49bb-a40c-2338b65ecd11
+                contents:
+                -   title: J Query User Input Calculator
+                    source: https://github.com/learn-co-curriculum/jQuery-user-input-calculator
+                    uuid: ecaed3a9-85d1-49ca-93b0-3843c6af9912
+            -   title: User Comments
+                uuid: af7a691e-9265-4b8e-91ed-6f919ac1854d
+                contents:
+                -   title: User Comments
+                    source: https://github.com/learn-co-curriculum/user-comments
+                    uuid: 6c6396a1-8bb3-45e8-8c96-53d828dd1978
+            -   title: Whac-a-Mole
+                uuid: c038c738-d1b2-4e5b-8899-17534465d19d
+                contents:
+                -   title: Whac A Mole.Js
+                    source: https://github.com/learn-co-curriculum/whac-a-mole.js
+                    uuid: fb48478c-72a7-416b-a43e-d374775090a5
+            -   title: Google Map and Geolocation
+                uuid: 72710a0c-aa7e-4cf0-8db6-2684ae44e31f
+                contents:
+                -   title: Google Maps Todo.Js
+                    source: https://github.com/learn-co-curriculum/google-map-todo.js
+                    uuid: a588431e-c46b-442e-ab08-bafcc595f81a
+            -   title: Task Lister
+                uuid: 5aea7ed8-8548-45b8-938f-929edb1c60fd
+                contents:
+                -   title: Web Js Oo Task List
+                    source: https://github.com/learn-co-curriculum/web-js-oo-task-list
+                    uuid: 4e6a52ac-9082-4899-9f51-6af2d7e5d356
+        -   title: AJAX and JSON
+            uuid: 48fc70ca-9d0d-4530-85e3-b50731ce2c1b
+            lessons:
+            -   title: Intro to AJAX
+                uuid: e2ffa93e-2b0c-444a-99ef-08c930a75344
+                contents:
+                -   title: Js Ajax Youtube Todo
+                    source: https://github.com/learn-co-curriculum/js-ajax-youtube-todo
+                    uuid: b3df5d36-6d02-4d59-bc56-5ed24a6548c4
+            -   title: JSON
+                uuid: 167a4ff8-fc35-4291-a215-dbf0d16aceca
+                contents:
+                -   title: Json
+                    source: https://github.com/learn-co-curriculum/json
+                    uuid: 9aada88c-390a-43f8-8a7a-e14f2fd69eb0
+            -   title: Visualizing Temperature with AJAX
+                uuid: 50d1b899-493c-43aa-80f4-97272919f14b
+                contents:
+                -   title: Js Weather Api Ajax
+                    source: https://github.com/learn-co-curriculum/js-weather-api-ajax
+                    uuid: 98f2ee02-db08-491e-8081-75c0664a48a1
+            -   title: Spotify API with AJAX
+                uuid: e156977e-7e5b-4988-acdd-2f2d5bb19bd8
+                contents:
+                -   title: Js Spotify Api Ajax
+                    source: https://github.com/learn-co-curriculum/js-spotify-api-ajax
+                    uuid: bf3b59dc-14b7-472f-b521-61e2fc1a59a0
+            -   title: Flickr Image Search
+                uuid: 2b791ad0-5d6b-4f2e-a76d-6135bc7afb5f
+                contents:
+                -   title: Flickr Image Search
+                    source: https://github.com/learn-co-curriculum/flickr-image-search
+                    uuid: e8d6ee04-8931-4ffd-b33a-b7f238805e36
+        -   title: JS + Rails
+            uuid: d3b345ba-9615-4b4f-9856-3f7cada8c3ed
+            lessons:
+            -   title: Integrating JS & Rails with Task Lister
+                uuid: 8d6f77c8-9b78-47c7-bfbe-c4b4ced602dd
+                contents:
+                -   title: Task Lister
+                    source: https://github.com/learn-co-curriculum/task-lister
+                    uuid: ec5441cc-fd9b-460a-81ff-1645f70be976
+            -   title: Rails Jquery Flinstagram
+                uuid: e7fd3477-775b-4f83-af75-3bc29cbcd1f0
+                contents:
+                -   title: Rails Jquery Flinstagram
+                    source: https://github.com/learn-co-curriculum/rails-jquery-flinstagram
+                    uuid: df32dd69-7334-4bad-8a41-b717073d05d3
+        -   title: Final Project
+            uuid: 2e338b70-b618-4197-87f0-7f3c84e9ecbf
+            lessons:
+            -   title: JavaScript Final Project
+                uuid: 06fe15d5-6952-49ac-97bc-7f448d0e1fd1
+                contents:
+                -   title: Js Final Project
+                    source: https://github.com/learn-co-curriculum/js-final-project
+                    uuid: e9c49346-73e8-41ca-bcde-455e35aab915
