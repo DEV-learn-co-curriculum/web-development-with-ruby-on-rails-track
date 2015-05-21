@@ -9,7 +9,7 @@ track:
         -   title: Command Line and BASH
             uuid: 284e9150-4238-4f8d-a014-bc49ad98d0e7
             lessons:
-            -   title: Intro to the Shell
+            -   title: Intro to the Shellll
                 uuid: becddd6b-abc9-4301-8496-b2060b13136d
                 contents:
                 -   title: Intro To The Shell
