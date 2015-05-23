@@ -3,7 +3,7 @@ track:
     title: Web Development with Ruby on Rails
     uuid: f1985b4a-8474-4d50-a34d-0ae4662bf866
     topics:
-    -   title: Getting This Party Started
+    -   title: Getting This Party Started Right
         uuid: e5810fec-6e26-40e5-978a-fbb264fcca7a
         units:
         -   title: Command Line and BASH
