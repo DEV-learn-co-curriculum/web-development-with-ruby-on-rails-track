@@ -75,7 +75,7 @@ track:
         -   title: Ruby Introduction
             uuid: c23fee6e-c125-4fdc-a571-ac10ee484e51
             lessons:
-            -   title: What is program
+            -   title: What is a Program??
                 uuid: 64b158af-1faf-47e2-9e3e-c0f238ccf892
                 contents:
                 -   title: Ruby Lecture Intro What Is A Program
