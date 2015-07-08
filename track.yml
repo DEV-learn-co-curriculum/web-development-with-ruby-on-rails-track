@@ -3,24 +3,24 @@ track:
     title: Web Development with Ruby on Rails
     uuid: f1985b4a-8474-4d50-a34d-0ae4662bf866
     topics:
-    -   title: Getting This Party Started Right
+    -   title: Getting Started
         uuid: e5810fec-6e26-40e5-978a-fbb264fcca7a
         units:
         -   title: Command Line and BASH
             uuid: 284e9150-4238-4f8d-a014-bc49ad98d0e7
             lessons:
+            -   title: Intro to the Shell
+                uuid: becddd6b-abc9-4301-8496-b2060b13136d
+                contents:
+                -   title: Intro To The Shell
+                    source: https://github.com/learn-co-curriculum/intro-to-the-shell
+                    uuid: db440135-a680-4c49-9c42-1fbfbaaedb52
             -   title: Opening a Terminal
                 uuid: d9bea7a2-461c-4ebf-8943-1262fbb53401
                 contents:
                 -   title: First Terminal
                     source: https://github.com/learn-co-curriculum/first-terminal
                     uuid: 4873ef3b-1d74-408a-b5f2-c66166991dc2
-            -   title: Intro to the Shellll
-                uuid: becddd6b-abc9-4301-8496-b2060b13136d
-                contents:
-                -   title: Intro To The Shell
-                    source: https://github.com/learn-co-curriculum/intro-to-the-shell
-                    uuid: db440135-a680-4c49-9c42-1fbfbaaedb52
             -   title: Bash Tutorial
                 uuid: 7120c9f8-4454-4c1a-923b-e078b04ad846
                 contents:
@@ -87,6 +87,18 @@ track:
                 -   title: Hello World Ruby
                     source: https://github.com/learn-co-curriculum/hello-world-ruby
                     uuid: d36e42ad-ae69-49ae-8927-422d0134522d
+            -   title: Ruby Data Types
+                uuid: 714d56cc-30d5-469d-8fd1-295f0f135f5c
+                contents:
+                -   title: Data Types Readme
+                    source: https://github.com/learn-co-curriculum/data-types-readme
+                    uuid: 9d0ea20c-3014-44cd-b732-a65bb46e962d
+            -   title: Interactive Ruby Shell (IRB or irb)
+                uuid: d99ec0ca-3dd3-4f3a-b0a9-40366b2acaae
+                contents:
+                -   title: Irb Readme
+                    source: https://github.com/learn-co-curriculum/irb-readme
+                    uuid: 3122bd60-7115-4b94-ba57-ac9d460fec51
             -   title: Reading Error Messages
                 uuid: a695f421-5a38-4974-9cdd-28d0897c03c8
                 contents:
@@ -99,43 +111,19 @@ track:
                 -   title: Ruby Lecture Fixing Our Broken Program
                     source: https://github.com/learn-co-curriculum/ruby-lecture-fixing-our-broken-program
                     uuid: 123c8ac5-a39d-47fc-b4da-44cc99d3f148
-            -   title: Interactive Ruby Shell (IRB or irb)
-                uuid: d99ec0ca-3dd3-4f3a-b0a9-40366b2acaae
-                contents:
-                -   title: Irb Readme
-                    source: https://github.com/learn-co-curriculum/irb-readme
-                    uuid: 3122bd60-7115-4b94-ba57-ac9d460fec51
             -   title: Debugging Errors in your Ruby Code
                 uuid: 0c57e2aa-f8fd-4bc8-8e81-fe133c0fb2ff
                 contents:
                 -   title: Debugging Errors Readme
                     source: https://github.com/learn-co-curriculum/debugging-errors-readme
                     uuid: 0284cc30-c0ad-4864-bb08-5ae091546b9f
-            -   title: Working with Syntax Errors
-                uuid: 25d6cc67-a1ed-4735-b3d3-22f400afd4f3
-                contents:
-                -   title: Syntax Error Ruby
-                    source: https://github.com/learn-co-curriculum/syntax-error-ruby
-                    uuid: d63884f3-7444-4425-b107-39d4a465fead
             -   title: Intro to Tests, RSpec, and Learn
                 uuid: f1d148d9-5a48-4a8f-bbaa-a085930a7133
                 contents:
                 -   title: Intro To Tdd Rspec And Learn
                     source: https://github.com/learn-co-curriculum/intro-to-tdd-rspec-and-learn
                     uuid: 4b894c3f-31a2-400f-a99b-78c7087b51a8
-            -   title: Ruby Basics
-                uuid: 4e1eaf25-ba82-42d6-aa1d-59296b9f2a80
-                contents:
-                -   title: Todo Ruby Basics
-                    source: https://github.com/learn-co-curriculum/todo-ruby-basics
-                    uuid: e989dd7b-2664-441a-8356-481fc5fddf28
-            -   title: Ruby Basics Lecture Review
-                uuid: 88eef003-d84e-4037-ad02-3a455ec910e4
-                contents:
-                -   title: Ruby Lecture Review
-                    source: https://github.com/learn-co-curriculum/ruby_lecture_review
-                    uuid: e3126d9b-c4be-44ad-9d04-4349277cd025
-        -   title: Adding New Words to Your Program
+        -   title: Variables and Methods
             uuid: 0721bd77-58c0-4e0f-a755-a31291d3954c
             lessons:
             -   title: About Variable Assignment
@@ -156,69 +144,93 @@ track:
                 -   title: Ruby Variable Types Readme
                     source: https://github.com/learn-co-curriculum/ruby-variable-types-readme
                     uuid: 5d0fa295-1ba5-4e89-99f8-1e20c2051109
+            -   title: 'Methods '
+                uuid: ed2e498b-cc7c-4e0a-a990-020276e3e589
+                contents:
+                -   title: Ruby Methods Readme
+                    source: https://github.com/learn-co-curriculum/ruby-methods-readme
+                    uuid: 381f321e-d877-41ab-8d0d-b279ddf6ef70
+            -   title: 'Methods and Arguments '
+                uuid: 25cbed5c-a188-4d7a-a25c-4545ead78fec
+                contents:
+                -   title: Ruby Arguments Readme
+                    source: https://github.com/learn-co-curriculum/ruby-arguments-readme
+                    uuid: 75470503-499c-4a12-a746-2d3ecac7008f
             -   title: Puts and Return Values
                 uuid: 16ad7c53-0f91-46ac-9ae7-92d1764a31f2
                 contents:
                 -   title: Puts Print And Return Readme
                     source: https://github.com/learn-co-curriculum/puts-print-and-return-readme
                     uuid: 16a12ae9-5a70-4e4d-b2bd-807fa70e013b
-            -   title: Puts Hello World
-                uuid: 6ee3108f-c132-4267-ace6-9028890e0870
+            -   title: TDD, RSpec, and Learn
+                uuid: 6dc6bd72-3c2d-4471-ba2c-7ccfba3c71ef
                 contents:
-                -   title: Ruby Hello World
-                    source: https://github.com/learn-co-curriculum/ruby-hello-world
-                    uuid: 110acafc-0cb0-4a8b-a9c2-050c68415abd
-            -   title: Methods, Return Value, Arguments
-                uuid: ed2e498b-cc7c-4e0a-a990-020276e3e589
+                -   title: Intro To Tdd Rspec And Learn
+                    source: https://github.com/learn-co-curriculum/intro-to-tdd-rspec-and-learn
+                    uuid: 14829b0d-3462-4b84-9b19-ab5519ffd6e6
+            -   title: Manipulating Strings
+                uuid: a685e7ed-6982-4591-9155-db6a4115f379
                 contents:
-                -   title: Ruby Methods Readme
-                    source: https://github.com/learn-co-curriculum/ruby-methods-readme
-                    uuid: 381f321e-d877-41ab-8d0d-b279ddf6ef70
-            -   title: Parrot
-                uuid: 416fb083-588f-4507-a95d-ef1693e3b2c2
-                contents:
-                -   title: Parrot Ruby
-                    source: https://github.com/learn-co-curriculum/parrot-ruby
-                    uuid: 57da7957-0eeb-48a8-b8e2-149a22cc96f6
+                -   title: Interpolation Readme
+                    source: https://github.com/learn-co-curriculum/interpolation-readme
+                    uuid: 23179785-eb7e-47da-bf53-4baf67a515f4
             -   title: Introductory Default Arguments 1
                 uuid: 2036f8a4-6d7c-4b1a-9be3-35d322ba5f60
                 contents:
                 -   title: Say Hello Ruby
                     source: https://github.com/learn-co-curriculum/say-hello-ruby
                     uuid: 6bebb502-4745-4a59-8c56-267cffd7fd92
+            -   title: Debugging with Pry
+                uuid: d500aae0-be04-44d7-b0b2-b249ec8ae942
+                contents:
+                -   title: Pry Readme
+                    source: https://github.com/learn-co-curriculum/pry-readme
+                    uuid: 33bebd04-d366-403e-b9e8-d5792607e229
             -   title: Introductory Default Arguments 2
                 uuid: 1662a17f-f90c-492d-bec6-9c73a808dfd6
                 contents:
                 -   title: Meal Choice
                     source: https://github.com/learn-co-curriculum/meal-choice
                     uuid: 6f10335d-1f14-4a88-a9af-3985ed180ca3
+            -   title: Parrot
+                uuid: 416fb083-588f-4507-a95d-ef1693e3b2c2
+                contents:
+                -   title: Parrot Ruby
+                    source: https://github.com/learn-co-curriculum/parrot-ruby
+                    uuid: 57da7957-0eeb-48a8-b8e2-149a22cc96f6
             -   title: Dice Roll
                 uuid: f938cb2b-231c-48d9-921c-91895a4a65a6
                 contents:
                 -   title: Dice Roll Ruby
                     source: https://github.com/learn-co-curriculum/dice-roll-ruby
                     uuid: 0647769c-77d9-415c-9047-f6c9d5410ae6
-        -   title: Math & Data Types
+            -   title: Ruby Basics Review Video
+                uuid: 2dc35d1f-a4b4-481e-b56a-c7874db34897
+                contents:
+                -   title: Ruby Lecture Review
+                    source: https://github.com/learn-co-curriculum/ruby_lecture_review
+                    uuid: 537d0356-947f-4c1a-a25b-edeef01cc3cc
+            -   title: Ruby Basics Review
+                uuid: 91e27e6c-5d12-4ecd-9183-1fc3a23033e3
+                contents:
+                -   title: Todo Ruby Basics
+                    source: https://github.com/learn-co-curriculum/todo-ruby-basics
+                    uuid: a91d9727-5c43-49aa-a6a4-b9732148ac6e
+        -   title: Booleans and Math
             uuid: 96d09cda-b301-47de-a96f-28157291c16f
             lessons:
-            -   title: Different Data Types in Ruby
-                uuid: 0b54063b-8287-4e75-ae60-6f1f3ad988e5
-                contents:
-                -   title: Data Types Readme
-                    source: https://github.com/learn-co-curriculum/data-types-readme
-                    uuid: 4f6658a2-1b7f-4144-b7ad-e965bb926195
-            -   title: About Ruby Booleans
-                uuid: 6cb5d87f-2668-4129-bfe7-d3943487b474
-                contents:
-                -   title: Booleans Ruby Readme
-                    source: https://github.com/learn-co-curriculum/booleans-ruby-readme
-                    uuid: de29644f-6799-459e-aeba-fea082cf3b63
-            -   title: Truthiness in Ruby
+            -   title: Booleans & Truthiness in Ruby
                 uuid: 53c1febd-4332-4194-867e-f12b6290f642
                 contents:
                 -   title: Truthiness In Ruby Readme
                     source: https://github.com/learn-co-curriculum/truthiness-in-ruby-readme
                     uuid: 545e4b1f-879e-41c2-85ef-a4d08d1855b9
+            -   title: Boolean Operators
+                uuid: 6cb5d87f-2668-4129-bfe7-d3943487b474
+                contents:
+                -   title: Booleans Ruby Readme
+                    source: https://github.com/learn-co-curriculum/booleans-ruby-readme
+                    uuid: de29644f-6799-459e-aeba-fea082cf3b63
             -   title: Testing Truth
                 uuid: 41982e1b-aba1-41b4-8f5b-032c85d29c88
                 contents:
@@ -252,18 +264,24 @@ track:
                 -   title: Rspec Fizzbuzz
                     source: https://github.com/learn-co-curriculum/rspec-fizzbuzz
                     uuid: ab7dc21b-f37a-4829-8a7a-23488fc27076
+            -   title: Operators and Conditionals
+                uuid: 979b01b4-8097-423c-babd-7b9b7ac942dc
+                contents:
+                -   title: Operators
+                    source: https://github.com/learn-co-curriculum/operators
+                    uuid: 3e574de5-787b-4809-a73e-b6fad2326fcf
             -   title: About Ruby Case Statements
                 uuid: 16638f82-b2b8-4853-a2f6-70ba82dc5f00
                 contents:
                 -   title: Case Statements Readme
                     source: https://github.com/learn-co-curriculum/case-statements-readme
                     uuid: 4017f124-5a89-4b8d-9ba5-feaab2583ca3
-            -   title: More Vowels
-                uuid: 173a476e-ed03-40a2-bdc5-e9bb7719b743
+            -   title: Conditional Quiz
+                uuid: fbd42490-baf5-4cd8-a154-b699d9261030
                 contents:
-                -   title: More Vowels
-                    source: https://github.com/learn-co-curriculum/more-vowels
-                    uuid: 7bbcdf36-4d8a-4fbb-bd95-713c6e2e52b5
+                -   title: Conditional Quiz Vowels
+                    source: https://github.com/learn-co-curriculum/conditional-quiz-vowels
+                    uuid: 5fccbdf9-d7d7-4e74-bcd4-c015965ae1b3
         -   title: Looping
             uuid: 12ba3da1-0926-4369-b9fe-ca34a1d40cfb
             lessons:
@@ -417,6 +435,12 @@ track:
                 -   title: Pass By Reference
                     source: https://github.com/learn-co-curriculum/pass-by-reference
                     uuid: 3213c1b3-4db1-4d3d-98c3-652d5a557fe7
+            -   title: Mutability Quiz
+                uuid: 94625844-9936-4baf-aae9-d25335592d79
+                contents:
+                -   title: Mutability Quiz
+                    source: https://github.com/learn-co-curriculum/mutability-quiz
+                    uuid: 913a860d-c69e-4bb6-ac65-de41b933a579
             -   title: Bonus - Collections Practice 1
                 uuid: 22891815-cd88-4931-ad8a-82b3208524b7
                 contents:
@@ -501,15 +525,9 @@ track:
             -   title: About String Manipulation
                 uuid: f49d9e38-4d69-426b-a3c4-9f97b0477a86
                 contents:
-                -   title: Interpolation Readme
-                    source: https://github.com/learn-co-curriculum/interpolation-readme
-                    uuid: d3f04c7f-7a49-4b2e-8e61-06fa4d10a700
                 -   title: String Concatenation Readme
                     source: https://github.com/learn-co-curriculum/string-concatenation-readme
                     uuid: 41fcbdee-0026-438a-ae0a-213686e3ac0c
-                -   title: Global Substitution Readme
-                    source: https://github.com/learn-co-curriculum/global-substitution-readme
-                    uuid: c54197b7-2a30-4ddc-a0ef-0a3211d9fb3a
             -   title: Guessing CLI
                 uuid: f1d9ec46-b585-4caf-a4a4-865a70a78e80
                 contents:
@@ -566,10 +584,7 @@ track:
                     uuid: c0ad053d-55b9-4a29-9db5-3943594590c8
             -   title: Debugging Errors
                 uuid: d5a07925-f033-44e7-ab2a-0efcf3c271c6
-                contents:
-                -   title: Debugging Errors Readme
-                    source: https://github.com/learn-co-curriculum/debugging-errors-readme
-                    uuid: 383ce0f4-0404-481b-b87a-2d4b7eb5b373
+                contents: []
         -   title: Bringing it all Together I
             uuid: bb6396d6-7f1a-4c7e-b0ef-0d7bf1df2765
             lessons:
@@ -1638,9 +1653,6 @@ track:
                 -   title: Intro To Js And Jasmine
                     source: https://github.com/learn-co-curriculum/intro-to-js-and-jasmine
                     uuid: 0f034e38-2312-4f15-be90-ad8369bdc264
-                -   title: Js Basics Readme
-                    source: https://github.com/learn-co-curriculum/js-basics-readme
-                    uuid: d2e4780e-e931-418b-92b1-de4526ae0975
             -   title: isBetween
                 uuid: 11a09302-2c39-48a1-84c3-e184fb7099b7
                 contents:
