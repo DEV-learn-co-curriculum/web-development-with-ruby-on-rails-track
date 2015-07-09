@@ -15,7 +15,7 @@ track:
                 -   title: Intro To The Shell
                     source: https://github.com/learn-co-curriculum/intro-to-the-shell
                     uuid: db440135-a680-4c49-9c42-1fbfbaaedb52
-            -   title: Opening a Terminal
+            -   title: First Terminal
                 uuid: d9bea7a2-461c-4ebf-8943-1262fbb53401
                 contents:
                 -   title: First Terminal
