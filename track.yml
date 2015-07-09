@@ -1248,7 +1248,7 @@ track:
         -   title: Introduction
             uuid: 3ac69f2a-93c9-4bd7-9d33-2080aa20738a
             lessons:
-            -   title: Middleware
+            -   title: Sinatra Middleware Readme
                 uuid: 0f462f88-a7b3-4d4d-9f72-47a2d2adab4e
                 contents:
                 -   title: Sinatra Middleware Readme
