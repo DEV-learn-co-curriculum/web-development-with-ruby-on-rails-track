@@ -360,13 +360,13 @@ track:
                 -   title: Prime Ruby
                     source: https://github.com/learn-co-curriculum/prime-ruby
                     uuid: 2fcd9848-b241-448f-9bd3-5698c2bdcb32
-            -   title: Intro to Manipulating Arrays Lab
+            -   title: Intro To Simple Array Manipulations
                 uuid: 4fe3e79f-bf4a-4327-92bd-d80b3374aca0
                 contents:
                 -   title: Intro To Simple Array Manipulations
                     source: https://github.com/learn-co-curriculum/intro-to-simple-array-manipulations
                     uuid: b7f36f23-238d-42b5-8b83-a0daa6475133
-            -   title: Badges and Schedules
+            -   title: Badges And Schedules
                 uuid: e73a9fa9-e5e9-4575-8ba5-f3fe83a58852
                 contents:
                 -   title: Badges And Schedules
