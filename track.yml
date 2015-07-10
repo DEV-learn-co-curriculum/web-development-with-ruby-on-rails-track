@@ -1338,7 +1338,7 @@ track:
                 -   title: Sinatra Sessions
                     source: https://github.com/learn-co-curriculum/sinatra-sessions
                     uuid: 961d99e5-7d36-4c6b-85c3-af871a6f4da3
-            -   title: Using Sessions - Sinatra Adventure
+            -   title: Sinatra Adventure
                 uuid: 9ea6579c-decd-49e7-b02e-65cf7b008f2a
                 contents:
                 -   title: Sinatra Adventure
