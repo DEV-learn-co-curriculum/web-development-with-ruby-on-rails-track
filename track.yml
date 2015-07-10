@@ -1230,7 +1230,7 @@ track:
                 -   title: Erb Templating
                     source: https://github.com/learn-co-curriculum/erb-templating
                     uuid: abeee0cf-dc81-444e-ac0a-6dab7c23407b
-            -   title: Working with HTML and ERB
+            -   title: Playlister Static Generator With Ar
                 uuid: 6d6ebbcc-f000-47ca-b876-d83d2d0b9dfb
                 contents:
                 -   title: Playlister Static Generator With Ar
