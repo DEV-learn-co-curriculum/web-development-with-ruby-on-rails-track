@@ -1314,7 +1314,7 @@ track:
                 -   title: Sinatra Nested Forms
                     source: https://github.com/learn-co-curriculum/sinatra-nested-forms
                     uuid: 34fcf00e-33da-4947-8ea0-0a2fb8d26c5d
-            -   title: Intermediate Nested Forms
+            -   title: Super Sinatra Forms
                 uuid: 645ced5c-b3e2-4fb7-a107-5cbd920ef1a9
                 contents:
                 -   title: Super Sinatra Forms
