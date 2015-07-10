@@ -1416,7 +1416,7 @@ track:
                 -   title: Sinatra Mvc File Structure Readme
                     source: https://github.com/learn-co-curriculum/sinatra-mvc-file-structure-readme
                     uuid: b8151577-86eb-4777-b99c-30d02edf7c26
-            -   title: CRUD & Associations - Playlister Sinatra
+            -   title: Playlister Sinatra
                 uuid: 3c615865-8942-4ffa-8f38-87e20b6c7a96
                 contents:
                 -   title: Playlister Sinatra
