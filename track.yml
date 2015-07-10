@@ -1323,7 +1323,7 @@ track:
                 -   title: Sinatra Classic File Structure Readme
                     source: https://github.com/learn-co-curriculum/sinatra-classic-file-structure-readme
                     uuid: 72712d43-dcab-43ac-af7c-015407f1b7dd
-            -   title: Routes
+            -   title: Sinatra Routes Readme
                 uuid: 6d013246-989a-4f3c-957a-e5893bd50d79
                 contents:
                 -   title: Sinatra Routes Readme
