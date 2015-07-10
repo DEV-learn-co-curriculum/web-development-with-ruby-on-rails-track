@@ -1341,7 +1341,7 @@ track:
                 -   title: Sinatra Twitter Todo
                     source: https://github.com/learn-co-curriculum/sinatra-twitter-todo
                     uuid: ce607b0a-aab5-4b4c-836e-145d5c784536
-            -   title: Working with Routes Todo
+            -   title: Sinatra Rspec Intro
                 uuid: 75ac9223-cc28-4913-90c7-fff8a3665431
                 contents:
                 -   title: Sinatra Rspec Intro
