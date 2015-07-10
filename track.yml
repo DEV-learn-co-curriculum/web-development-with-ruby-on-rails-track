@@ -1458,7 +1458,7 @@ track:
         -   title: ActiveRecord
             uuid: 310984f2-a89d-4a0b-b7b3-e6463bb47cfd
             lessons:
-            -   title: Writing Joins - Join the Fun Rails
+            -   title: Join The Fun Rails
                 uuid: 390f6d31-4f92-4be4-9e51-732d2eac8e36
                 contents:
                 -   title: Join The Fun Rails
