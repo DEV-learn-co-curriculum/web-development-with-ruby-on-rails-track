@@ -1308,7 +1308,7 @@ track:
                 -   title: Sinatra Basic Forms
                     source: https://github.com/learn-co-curriculum/sinatra-basic-forms
                     uuid: 6c87260b-11f3-4656-b4fe-f41dffd940a5
-            -   title: Introductory Nested Forms
+            -   title: Sinatra Nested Forms
                 uuid: 97a13bd9-a7dc-4804-aa0c-4ce86c5ab9cb
                 contents:
                 -   title: Sinatra Nested Forms
