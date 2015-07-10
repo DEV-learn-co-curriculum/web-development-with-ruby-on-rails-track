@@ -588,7 +588,7 @@ track:
         -   title: Bringing it all Together I
             uuid: bb6396d6-7f1a-4c7e-b0ef-0d7bf1df2765
             lessons:
-            -   title: Todo - Count Elements
+            -   title: Count Elements
                 uuid: fe63b721-107c-4ca8-86c9-b1cfbc57724a
                 contents:
                 -   title: Count Elements
