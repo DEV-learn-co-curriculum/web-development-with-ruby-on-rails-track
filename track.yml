@@ -1272,7 +1272,7 @@ track:
                 -   title: Sinatra Params Readme
                     source: https://github.com/learn-co-curriculum/sinatra-params-readme
                     uuid: bfd245cb-2ac1-4f87-8c74-5d6083fd11d0
-            -   title: Sinatra Twitter Todo Tutorial
+            -   title: Sinatra Twitter Todo
                 uuid: 0ff1a2ff-c942-42fd-8f18-a36d26139242
                 contents:
                 -   title: Sinatra Twitter Todo
