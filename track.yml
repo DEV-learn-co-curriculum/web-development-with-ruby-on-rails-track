@@ -1290,7 +1290,7 @@ track:
                 -   title: Rps Game App
                     source: https://github.com/learn-co-curriculum/rps-game-app
                     uuid: 3b1e1866-2d47-4e24-b91d-74fbb1c7f7b1
-            -   title: Making POST requests
+            -   title: Sinatra Messages
                 uuid: 5d25c4c2-a35c-49c5-b307-1aec83db112f
                 contents:
                 -   title: Sinatra Messages
