@@ -576,7 +576,7 @@ track:
         -   title: Debugging
             uuid: d5341d38-f3c0-4ae2-a9da-daedc8ee31c4
             lessons:
-            -   title: Pry Video
+            -   title: Pry Readme
                 uuid: cf2cc2cd-9d04-40ef-ac69-09a29cb33054
                 contents:
                 -   title: Pry Readme
