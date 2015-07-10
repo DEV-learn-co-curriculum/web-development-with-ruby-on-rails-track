@@ -462,7 +462,7 @@ track:
                 -   title: Hash Overview Readme
                     source: https://github.com/learn-co-curriculum/hash-overview-readme
                     uuid: 6dc731b5-0273-4a48-a366-3d7d1e9851eb
-            -   title: Intro to Hashes Lab
+            -   title: Ruby Intro To Hashes Lab
                 uuid: 9b50aa99-dc45-4cac-b2e1-b4eb60806761
                 contents:
                 -   title: Ruby Intro To Hashes Lab
