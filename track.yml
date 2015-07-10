@@ -1224,7 +1224,7 @@ track:
             -   title: ERB Lecture
                 uuid: 0213958e-1647-4724-8025-71297e6a11df
                 contents: []
-            -   title: An Introduction to ERB
+            -   title: Erb Templating
                 uuid: 8f95cabf-2e46-4832-97fc-909d5b78cde1
                 contents:
                 -   title: Erb Templating
