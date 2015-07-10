@@ -1254,7 +1254,7 @@ track:
                 -   title: Sinatra Middleware Readme
                     source: https://github.com/learn-co-curriculum/sinatra-middleware-readme
                     uuid: dc55e077-ef58-4c7a-bd87-8730d0e5b453
-            -   title: File Structure
+            -   title: Sinatra Classic File Structure Readme
                 uuid: 7a1c1e1e-7b79-4b94-ad28-3c53df9d6977
                 contents:
                 -   title: Sinatra Classic File Structure Readme
