@@ -1422,7 +1422,7 @@ track:
                 -   title: Playlister Sinatra
                     source: https://github.com/learn-co-curriculum/playlister-sinatra
                     uuid: b35bf1f0-ae44-44a8-99f3-90603db40e98
-            -   title: Associations & Forms - NYC Sinatra
+            -   title: Nyc Sinatra
                 uuid: ee9ac47b-d4ae-4c19-869b-8aa1568e1689
                 contents:
                 -   title: Nyc Sinatra
