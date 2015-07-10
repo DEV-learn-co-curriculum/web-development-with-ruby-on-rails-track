@@ -1323,7 +1323,7 @@ track:
         -   title: Sessions
             uuid: a1001bb8-c6da-49f2-92a2-62cae8323bae
             lessons:
-            -   title: About Cookies
+            -   title: Sinatra Cookies Readme
                 uuid: 35cfbf41-f517-4711-bf79-089cdaee55f3
                 contents:
                 -   title: Sinatra Cookies Readme
