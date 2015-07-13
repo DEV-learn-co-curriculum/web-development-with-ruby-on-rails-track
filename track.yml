@@ -15,7 +15,7 @@ track:
                 -   title: Intro To The Shell
                     source: https://github.com/learn-co-curriculum/intro-to-the-shell
                     uuid: db440135-a680-4c49-9c42-1fbfbaaedb52
-            -   title: Opening a Terminal
+            -   title: First Terminal
                 uuid: d9bea7a2-461c-4ebf-8943-1262fbb53401
                 contents:
                 -   title: First Terminal
@@ -75,7 +75,7 @@ track:
         -   title: Ruby Introduction
             uuid: c23fee6e-c125-4fdc-a571-ac10ee484e51
             lessons:
-            -   title: What is a Program??
+            -   title: Ruby Lecture Intro What Is A Program
                 uuid: 64b158af-1faf-47e2-9e3e-c0f238ccf892
                 contents:
                 -   title: Ruby Lecture Intro What Is A Program
@@ -123,6 +123,15 @@ track:
                 -   title: Intro To Tdd Rspec And Learn
                     source: https://github.com/learn-co-curriculum/intro-to-tdd-rspec-and-learn
                     uuid: 4b894c3f-31a2-400f-a99b-78c7087b51a8
+        -   title: Simple Math
+            uuid: dfb235c4-17bd-4fc4-af14-66db7c43d706
+            lessons:
+            -   title: Math in Ruby
+                uuid: 1acadb1c-5c08-43f3-a8d4-30ecbe2e7d25
+                contents:
+                -   title: Simple Math
+                    source: https://github.com/learn-co-curriculum/simple-math
+                    uuid: 0fb4693c-6b8d-4e33-977a-d4ef0f12263d
         -   title: Variables and Methods
             uuid: 0721bd77-58c0-4e0f-a755-a31291d3954c
             lessons:
@@ -216,7 +225,7 @@ track:
                 -   title: Todo Ruby Basics
                     source: https://github.com/learn-co-curriculum/todo-ruby-basics
                     uuid: a91d9727-5c43-49aa-a6a4-b9732148ac6e
-        -   title: Booleans and Math
+        -   title: Booleans
             uuid: 96d09cda-b301-47de-a96f-28157291c16f
             lessons:
             -   title: Booleans & Truthiness in Ruby
@@ -231,12 +240,12 @@ track:
                 -   title: Booleans Ruby Readme
                     source: https://github.com/learn-co-curriculum/booleans-ruby-readme
                     uuid: de29644f-6799-459e-aeba-fea082cf3b63
-            -   title: Testing Truth
-                uuid: 41982e1b-aba1-41b4-8f5b-032c85d29c88
+            -   title: Code Challenge
+                uuid: 4cbbfe0b-e51e-4c8f-a969-2ec9fccf67ea
                 contents:
-                -   title: Testing Truth
-                    source: https://github.com/learn-co-curriculum/testing-truth
-                    uuid: ccbaa593-2af2-402b-b140-9965cc35a6cd
+                -   title: Truthiness Code Challenge
+                    source: https://github.com/learn-co-curriculum/truthiness-code-challenge
+                    uuid: e76f687a-6dba-48e9-945a-de714e65022c
             -   title: Simple Math
                 uuid: 5b6c8bbf-4b8a-470d-b07d-5da943aa5dd2
                 contents:
@@ -285,12 +294,42 @@ track:
         -   title: Looping
             uuid: 12ba3da1-0926-4369-b9fe-ca34a1d40cfb
             lessons:
-            -   title: Looping and Gets
+            -   title: Intro to Looping
                 uuid: 6f62420a-f75a-47fd-a259-8143c04e969f
                 contents:
                 -   title: Looping Readme
                     source: https://github.com/learn-co-curriculum/looping-readme
                     uuid: cf772937-5b5d-49f1-b9fd-2137f9023299
+            -   title: Looping - Loop Constructor
+                uuid: 88cd41f9-47bf-49ad-959e-02404a19def1
+                contents:
+                -   title: Looping Loop
+                    source: https://github.com/learn-co-curriculum/looping-loop
+                    uuid: 58daa4a3-0241-45e9-9759-8f11b585e78e
+            -   title: Looping - Times Constructor
+                uuid: 9e60e094-b828-4b47-98a4-ff74fc5776a7
+                contents:
+                -   title: Looping Times
+                    source: https://github.com/learn-co-curriculum/looping-times
+                    uuid: 8fd951db-733b-42b3-a5bf-9d7048131f99
+            -   title: 'Looping - While and Until Constructors '
+                uuid: 79791a54-93d4-4d4a-acbe-911fa80b78fc
+                contents:
+                -   title: Looping While Until
+                    source: https://github.com/learn-co-curriculum/looping-while-until
+                    uuid: 020381f1-d455-4591-91e9-0f91f76f4771
+            -   title: Looping - Break and Gets
+                uuid: 9307bf3c-08d2-4418-8b6f-2088a9e1e958
+                contents:
+                -   title: Looping Break Gets
+                    source: https://github.com/learn-co-curriculum/looping-break-gets
+                    uuid: 0559ea9f-be79-4672-9883-d5d6a6c2f6d4
+            -   title: Looping - For Constructor
+                uuid: ec3493a6-8c18-4f98-9d2b-b858fad4d524
+                contents:
+                -   title: Looping For
+                    source: https://github.com/learn-co-curriculum/looping-for
+                    uuid: 58a57143-540b-4931-b09e-c1f58b42c338
             -   title: Simple Loops
                 uuid: 67e0d67c-6c72-43f5-b21e-94b588002f93
                 contents:
@@ -360,13 +399,13 @@ track:
                 -   title: Prime Ruby
                     source: https://github.com/learn-co-curriculum/prime-ruby
                     uuid: 2fcd9848-b241-448f-9bd3-5698c2bdcb32
-            -   title: Intro To Simple Array Manipulations
+            -   title: Intro to Manipulating Arrays Lab
                 uuid: 4fe3e79f-bf4a-4327-92bd-d80b3374aca0
                 contents:
                 -   title: Intro To Simple Array Manipulations
                     source: https://github.com/learn-co-curriculum/intro-to-simple-array-manipulations
                     uuid: b7f36f23-238d-42b5-8b83-a0daa6475133
-            -   title: Badges And Schedules
+            -   title: Badges and Schedules
                 uuid: e73a9fa9-e5e9-4575-8ba5-f3fe83a58852
                 contents:
                 -   title: Badges And Schedules
@@ -441,7 +480,13 @@ track:
                 -   title: Mutability Quiz
                     source: https://github.com/learn-co-curriculum/mutability-quiz
                     uuid: 913a860d-c69e-4bb6-ac65-de41b933a579
-            -   title: Bonus - Collections Practice 1
+            -   title: Sorting
+                uuid: 5f485863-dc2b-49bc-a2a8-5bdd5f271ac9
+                contents:
+                -   title: Sorting Readme
+                    source: https://github.com/learn-co-curriculum/sorting-readme
+                    uuid: 166ba09a-29ee-49cc-801a-c2c6f2393eb6
+            -   title: Bonus Collections Practice
                 uuid: 22891815-cd88-4931-ad8a-82b3208524b7
                 contents:
                 -   title: Collections Practice
@@ -456,30 +501,48 @@ track:
         -   title: An Intro to Hashes
             uuid: 4e003f43-225c-4158-97e4-a04aa60d5a84
             lessons:
-            -   title: Hash Overview Readme
+            -   title: About Hashes
                 uuid: 75401c06-d40b-49f0-9ad7-073dec45bee8
                 contents:
                 -   title: Hash Overview Readme
                     source: https://github.com/learn-co-curriculum/hash-overview-readme
                     uuid: 6dc731b5-0273-4a48-a366-3d7d1e9851eb
-            -   title: Ruby Intro To Hashes Lab
+            -   title: Symbols
+                uuid: 1c4ace28-8109-4780-b5f7-2323048ef5bc
+                contents:
+                -   title: Ruby Symbols
+                    source: https://github.com/learn-co-curriculum/ruby-symbols
+                    uuid: 43d5e7c4-7b75-4052-9ee7-efb67fe9ea23
+            -   title: Building Nested Hashes
+                uuid: 1c9063fa-0481-4501-8f62-bc1b55bd09e9
+                contents:
+                -   title: Building Nested Hashes
+                    source: https://github.com/learn-co-curriculum/building-nested-hashes
+                    uuid: 2f1ab90f-a66d-4de4-aec4-f519123f8320
+            -   title: Intro to Hashes Lab
                 uuid: 9b50aa99-dc45-4cac-b2e1-b4eb60806761
                 contents:
                 -   title: Ruby Intro To Hashes Lab
                     source: https://github.com/learn-co-curriculum/ruby-intro-to-hashes-lab
                     uuid: 217139fc-9b68-470e-9eaf-2fe9e2cf65aa
-            -   title: Ruby Symbols
-                uuid: edde1fb1-b69d-42dc-9ad3-af168efb05c4
-                contents:
-                -   title: Ruby Symbols
-                    source: https://github.com/learn-co-curriculum/ruby-symbols
-                    uuid: 0f7c9d19-4389-41f9-b6a7-2bc78541de33
-            -   title: Key For Min Value
+            -   title: Key for Min Value
                 uuid: 2ea6c330-3ec0-47f8-8340-ce9705e6ff7e
                 contents:
                 -   title: Key For Min Value
                     source: https://github.com/learn-co-curriculum/key-for-min-value
                     uuid: 72fa3051-3118-4f08-875c-f68fd409a7a8
+            -   title: Manipulating Hashes
+                uuid: 8c8bc4b6-008c-4203-aabb-7a739e0615c0
+                contents:
+                -   title: Manipulating Hashes
+                    source: https://github.com/learn-co-curriculum/manipulating-hashes
+                    uuid: 6229c0ac-99d2-47f4-92af-5cd8b0d81481
+            -   title: Manipulation Lab
+                uuid: b684be06-b0a0-48df-b59f-03c8e91be2d8
+                contents:
+                -   title: Apples And Holidays
+                    source: https://github.com/learn-co-curriculum/apples-and-holidays
+                    uuid: 3dde6fc9-61bd-4b08-8607-7e4424859c44
             -   title: Simple Nesting
                 uuid: 2b95903d-2b1d-4596-adff-fd04586adc87
                 contents:
@@ -489,7 +552,7 @@ track:
         -   title: More on Hashes
             uuid: f03ef710-bd7d-4cdd-a574-900e2d25e3dc
             lessons:
-            -   title: Apples And Holidays
+            -   title: Iterating and Manipulating 1
                 uuid: e164582f-fbc0-40c6-ba1c-8a211e9c4f13
                 contents:
                 -   title: Apples And Holidays
@@ -576,7 +639,7 @@ track:
         -   title: Debugging
             uuid: d5341d38-f3c0-4ae2-a9da-daedc8ee31c4
             lessons:
-            -   title: Pry Readme
+            -   title: Pry Video
                 uuid: cf2cc2cd-9d04-40ef-ac69-09a29cb33054
                 contents:
                 -   title: Pry Readme
@@ -588,7 +651,7 @@ track:
         -   title: Bringing it all Together I
             uuid: bb6396d6-7f1a-4c7e-b0ef-0d7bf1df2765
             lessons:
-            -   title: Count Elements
+            -   title: Todo - Count Elements
                 uuid: fe63b721-107c-4ca8-86c9-b1cfbc57724a
                 contents:
                 -   title: Count Elements
@@ -1230,13 +1293,13 @@ track:
                 -   title: Erb Templating
                     source: https://github.com/learn-co-curriculum/erb-templating
                     uuid: abeee0cf-dc81-444e-ac0a-6dab7c23407b
-            -   title: Playlister Static Generator With Ar
+            -   title: Working with HTML and ERB
                 uuid: 6d6ebbcc-f000-47ca-b876-d83d2d0b9dfb
                 contents:
                 -   title: Playlister Static Generator With Ar
                     source: https://github.com/learn-co-curriculum/playlister-static-generator-with-ar
                     uuid: 6ae56d29-5f1b-4209-90c4-08a6b4f2dc88
-            -   title: Oo Neopet Html Generator
+            -   title: Bonus - Generating HTML
                 uuid: d3120ec5-e4a4-4c63-80a2-20d760d99389
                 contents:
                 -   title: Oo Neopet Html Generator
@@ -1254,7 +1317,7 @@ track:
                 -   title: Sinatra Middleware Readme
                     source: https://github.com/learn-co-curriculum/sinatra-middleware-readme
                     uuid: dc55e077-ef58-4c7a-bd87-8730d0e5b453
-            -   title: Sinatra Classic File Structure Readme
+            -   title: File Structure
                 uuid: 7a1c1e1e-7b79-4b94-ad28-3c53df9d6977
                 contents:
                 -   title: Sinatra Classic File Structure Readme
@@ -1272,13 +1335,13 @@ track:
                 -   title: Sinatra Params Readme
                     source: https://github.com/learn-co-curriculum/sinatra-params-readme
                     uuid: bfd245cb-2ac1-4f87-8c74-5d6083fd11d0
-            -   title: Sinatra Twitter Todo
+            -   title: Sinatra Twitter Todo Tutorial
                 uuid: 0ff1a2ff-c942-42fd-8f18-a36d26139242
                 contents:
                 -   title: Sinatra Twitter Todo
                     source: https://github.com/learn-co-curriculum/sinatra-twitter-todo
                     uuid: ce607b0a-aab5-4b4c-836e-145d5c784536
-            -   title: Working with Routes Todo
+            -   title: Sinatra Rspec Intro
                 uuid: 75ac9223-cc28-4913-90c7-fff8a3665431
                 contents:
                 -   title: Sinatra Rspec Intro
@@ -1290,7 +1353,7 @@ track:
                 -   title: Rps Game App
                     source: https://github.com/learn-co-curriculum/rps-game-app
                     uuid: 3b1e1866-2d47-4e24-b91d-74fbb1c7f7b1
-            -   title: Sinatra Messages
+            -   title: Making POST requests
                 uuid: 5d25c4c2-a35c-49c5-b307-1aec83db112f
                 contents:
                 -   title: Sinatra Messages
@@ -1308,13 +1371,13 @@ track:
                 -   title: Sinatra Basic Forms
                     source: https://github.com/learn-co-curriculum/sinatra-basic-forms
                     uuid: 6c87260b-11f3-4656-b4fe-f41dffd940a5
-            -   title: Sinatra Nested Forms
+            -   title: Introductory Nested Forms
                 uuid: 97a13bd9-a7dc-4804-aa0c-4ce86c5ab9cb
                 contents:
                 -   title: Sinatra Nested Forms
                     source: https://github.com/learn-co-curriculum/sinatra-nested-forms
                     uuid: 34fcf00e-33da-4947-8ea0-0a2fb8d26c5d
-            -   title: Super Sinatra Forms
+            -   title: Intermediate Nested Forms
                 uuid: 645ced5c-b3e2-4fb7-a107-5cbd920ef1a9
                 contents:
                 -   title: Super Sinatra Forms
@@ -1323,7 +1386,7 @@ track:
         -   title: Sessions
             uuid: a1001bb8-c6da-49f2-92a2-62cae8323bae
             lessons:
-            -   title: Sinatra Cookies Readme
+            -   title: About Cookies
                 uuid: 35cfbf41-f517-4711-bf79-089cdaee55f3
                 contents:
                 -   title: Sinatra Cookies Readme
@@ -1338,7 +1401,7 @@ track:
                 -   title: Sinatra Sessions
                     source: https://github.com/learn-co-curriculum/sinatra-sessions
                     uuid: 961d99e5-7d36-4c6b-85c3-af871a6f4da3
-            -   title: Sinatra Adventure
+            -   title: Using Sessions - Sinatra Adventure
                 uuid: 9ea6579c-decd-49e7-b02e-65cf7b008f2a
                 contents:
                 -   title: Sinatra Adventure
@@ -1353,13 +1416,13 @@ track:
                 -   title: Sinatra Mvc File Structure Readme
                     source: https://github.com/learn-co-curriculum/sinatra-mvc-file-structure-readme
                     uuid: b8151577-86eb-4777-b99c-30d02edf7c26
-            -   title: CRUD & Associations - Playlister Sinatra
+            -   title: Playlister Sinatra
                 uuid: 3c615865-8942-4ffa-8f38-87e20b6c7a96
                 contents:
                 -   title: Playlister Sinatra
                     source: https://github.com/learn-co-curriculum/playlister-sinatra
                     uuid: b35bf1f0-ae44-44a8-99f3-90603db40e98
-            -   title: Associations & Forms - NYC Sinatra
+            -   title: Nyc Sinatra
                 uuid: ee9ac47b-d4ae-4c19-869b-8aa1568e1689
                 contents:
                 -   title: Nyc Sinatra
@@ -1458,7 +1521,7 @@ track:
         -   title: ActiveRecord
             uuid: 310984f2-a89d-4a0b-b7b3-e6463bb47cfd
             lessons:
-            -   title: Join The Fun Rails
+            -   title: Writing Joins - Join the Fun Rails
                 uuid: 390f6d31-4f92-4be4-9e51-732d2eac8e36
                 contents:
                 -   title: Join The Fun Rails
@@ -1653,12 +1716,18 @@ track:
                 -   title: Intro To Js And Jasmine
                     source: https://github.com/learn-co-curriculum/intro-to-js-and-jasmine
                     uuid: 0f034e38-2312-4f15-be90-ad8369bdc264
-            -   title: isBetween
+            -   title: isBetween.js
                 uuid: 11a09302-2c39-48a1-84c3-e184fb7099b7
                 contents:
                 -   title: Is Between.Js
                     source: https://github.com/learn-co-curriculum/isBetween.js
                     uuid: 4cf2a8dd-b529-4f0d-9e74-4637b3d770a8
+            -   title: teenager.js
+                uuid: 79c8e630-a9a3-4322-a81e-a5ca1e4118b9
+                contents:
+                -   title: Teenager.Js
+                    source: https://github.com/learn-co-curriculum/teenager.js
+                    uuid: 0687a73d-bbee-4c2c-b8b2-a4dbe84aa5b9
             -   title: Conditionals with FizzBuzz
                 uuid: 7113b32d-48a6-4689-a58d-d14cf3c53f04
                 contents:
@@ -1671,12 +1740,6 @@ track:
                 -   title: Dice.Js
                     source: https://github.com/learn-co-curriculum/dice.js
                     uuid: f3b4fa0c-dbf7-403d-9a30-6f298bb282bb
-            -   title: teenager.js
-                uuid: 79c8e630-a9a3-4322-a81e-a5ca1e4118b9
-                contents:
-                -   title: Teenager.Js
-                    source: https://github.com/learn-co-curriculum/teenager.js
-                    uuid: 0687a73d-bbee-4c2c-b8b2-a4dbe84aa5b9
         -   title: Object Oriented JavaScript
             uuid: d1d5dc14-5325-41a3-8007-509d935b34a3
             lessons:
@@ -1755,7 +1818,7 @@ track:
         -   title: jQuery
             uuid: a3d39c8d-e23a-478e-a47e-7da66972cec0
             lessons:
-            -   title: Making your own jQuery
+            -   title: Making Your Own jQuery
                 uuid: 076a99a0-a6c9-4330-939f-9072c73958f3
                 contents:
                 -   title: My Query
@@ -1767,7 +1830,13 @@ track:
                 -   title: J Query Selector Basics
                     source: https://github.com/learn-co-curriculum/jQuery-selector-basics
                     uuid: 90db09fd-1c34-42b2-b4d6-d3b24219d330
-            -   title: jQuery donut party
+            -   title: jQuery Method Basics
+                uuid: 81876376-a9e3-433c-988e-73b8a39cb755
+                contents:
+                -   title: J Query Method Basics
+                    source: https://github.com/learn-co-curriculum/jQuery-method-basics
+                    uuid: 070f249f-7331-4261-8559-ab71c1820dc4
+            -   title: jQuery Donut Party
                 uuid: cc28a586-bad2-48eb-8ea6-1ff78b3b13a7
                 contents:
                 -   title: J Query Donut Party
@@ -1845,7 +1914,7 @@ track:
                 -   title: Task Lister
                     source: https://github.com/learn-co-curriculum/task-lister
                     uuid: ec5441cc-fd9b-460a-81ff-1645f70be976
-            -   title: Rails Jquery Flinstagram
+            -   title: Rails jQuery Flinstagram
                 uuid: e7fd3477-775b-4f83-af75-3bc29cbcd1f0
                 contents:
                 -   title: Rails Jquery Flinstagram
