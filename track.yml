@@ -36,7 +36,7 @@ track:
         -   title: Verifying Your Environment
             uuid: d9032cfb-6e59-47c2-890d-1dd55b283242
             lessons:
-            -   title: Environment Setup Summary
+            -   title: Ruby Environment Setup Summary
                 uuid: 45e94204-47cd-4634-87eb-2231e99b8e41
                 contents:
                 -   title: Ruby Environment Setup Summary
